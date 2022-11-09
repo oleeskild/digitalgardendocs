@@ -9,26 +9,30 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 This site is itself powered by the Digital Garden plugin. 
 
 ### Sites people have created
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
-		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://alberer.contact">alberer.contact</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://notes.thatother.dev/">That Other Dev</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://notes.hxhc.xyz/">hxhc</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://erosaezhe.netlify.app/">erosaezhe</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<a href="https://notes.ole.dev/">ole.dev</a>
 	</div>
 </div>
 
