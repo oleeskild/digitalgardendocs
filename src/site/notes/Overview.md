@@ -9,7 +9,7 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 This site is itself powered by the Digital Garden plugin. 
 
 ### Sites people have created
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img style="width:200px; padding: 10px" src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
