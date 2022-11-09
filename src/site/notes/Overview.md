@@ -11,12 +11,24 @@ This site is itself powered by the Digital Garden plugin.
 ### Sites people have created
 <div style="display: flex; justify-content: space-between;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
-		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
+		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
-		<a href="https://syleria.netlify.app/">Syleria</a>
+		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<a href="https://alberer.contact">alberer.contact</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<a href="https://notes.thatother.dev/">That Other Dev</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<a href="https://notes.hxhc.xyz/">hxhc</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img src="https://obsidian.md/images/site-demo-eleanor-notes.png"/>
+		<a href="https://erosaezhe.netlify.app/">erosaezhe</a>
 	</div>
 </div>
 
@@ -24,7 +36,7 @@ This site is itself powered by the Digital Garden plugin.
 [Syleria](https://syleria.netlify.app/)
 [alberer.contact](alberer.contact)
 [That Other Dev](https://notes.thatother.dev/)
-[hxhc]( https://notes.hxhc.xyz/)
+[hxhc](https://notes.hxhc.xyz/)
 [erosaezhe](https://erosaezhe.netlify.app/)
 
 <a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
