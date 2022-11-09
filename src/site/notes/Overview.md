@@ -5,15 +5,9 @@
 
 A free (and open source) alternative to Obsidian Publish. 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-<button>Test</button>
-
-</div></div>
-
+<div style="width: 100%;">
+	<button style="margin: auto">Click here</button>
+</div>
 
 
 
