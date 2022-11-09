@@ -10,11 +10,11 @@ This site is itself powered by the Digital Garden plugin.
 
 ### Sites people have created
 <div style="display: flex; justify-content: space-between;">
-	<div style="display: flex; flex-direction: column; justify-content: center;">
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
 	</div>
-	<div style="display: flex; flex-direction: column; justify-content: center;">
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
 	</div>
