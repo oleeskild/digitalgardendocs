@@ -14,7 +14,6 @@ This site is itself powered by the Digital Garden plugin.
 		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
 	</div>
-
 	<div style="display: flex; flex-direction: column; justify-content: center;">
 		<img src="https://joelhooks.com/static/c8e3346df4dc4ce9da1078536d823478/58556/plant_01.webp"/>
 		<a href="https://syleria.netlify.app/">Syleria</a>
