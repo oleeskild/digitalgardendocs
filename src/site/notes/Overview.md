@@ -3,15 +3,15 @@
 ---
 
 
-A free (and open source) alternative to Obsidian Publish. 
+The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free (and open source) alternative to [Obsidian Publish](https://obsidian.md/publish). Publish your notes directly from [Obsidian](https://obsidian.md/) to your own personal digital garden.  
 
-<div style="width: 100%;">
-	<button style="margin: auto">Click here</button>
-</div>
+[[Quick Start\|Quick Start]]
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
 
 
-
+* Examples
 * Use html
 - Show buttons
 - Set dg publish on many notes simouoltaneously
-- 
+- Alternatives to netlfiy
