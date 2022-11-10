@@ -61,3 +61,10 @@ If you want a transluded image to have a size of 200 px, you would add the follo
 ![[myimage.png|200]]
 ```
 Your image should then be rendered with a max width of 200 px in your site. 
+
+## Custom link title
+The plugin supports setting a customer title the same way you would do in Obsidian.
+If you have a note title `My Note` , but want a link to display `click here`, you would use the following syntax:
+```markdown
+[[My Note|click here]]
+```
