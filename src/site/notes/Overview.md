@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/overview/","tags":"gardenEntry"}
 ---
 
+<style>
+h1, h2, h3, h4, h5,  h6 {
+	text-align: center;
+}
+</style>
 
 The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free (and open source) alternative to [Obsidian Publish](https://obsidian.md/publish). 
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
@@ -11,7 +16,7 @@ This site is itself powered by the Digital Garden plugin.
 To get started, read the [[Quick Start\|Quick Start]].
 
 ### Sites people have created
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
 		<a href="https://notes.thatother.dev/">That Other Dev</a>
@@ -51,5 +56,5 @@ To get started, read the [[Quick Start\|Quick Start]].
 [[Commands\|Commands]]
 [[Note settings\|Note settings]]
 [[Updating the template\|Updating the template]]
-
+[[VS\|VS]]
 
