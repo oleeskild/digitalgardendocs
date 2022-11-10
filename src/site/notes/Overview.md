@@ -11,7 +11,7 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 
 This site is itself powered by the Digital Garden plugin. 
 
-To get started, read the [[Getting Started/01 Quick Start\|01 Quick Start]].
+To get started, read the [[Getting Started/01 Quick Start\|Quick Start]].
 
 ### Sites people have created
 
