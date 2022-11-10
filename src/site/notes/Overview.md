@@ -8,6 +8,8 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 
 This site is itself powered by the Digital Garden plugin. 
 
+To get started, read the [[Quick Start\|Quick Start]].
+
 ### Sites people have created
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
@@ -37,26 +39,17 @@ This site is itself powered by the Digital Garden plugin.
 </div>
 
 
-[Syleria](https://syleria.netlify.app/)
-[That Other Dev](https://notes.thatother.dev/)
-[alberer.contact](alberer.contact)
-[hxhc](https://notes.hxhc.xyz/)
-[erosaezhe](https://erosaezhe.netlify.app/)
+<div style="display: flex; justify-content: center">
+	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
+		<button>Submit your own site here</button>
+	</a>
+</div>
 
-<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
-	<button>Submit your own site here</button>
-</a>
 
-[[Quick Start\|Quick Start]]
 
+[[Content Support\|Content Support]]
 [[Commands\|Commands]]
 [[Note settings\|Note settings]]
+[[Updating the template\|Updating the template]]
 
-Content support
 
-* Examples
-
-* Use html
-- Show buttons
-- Set dg publish on many notes simouoltaneously
-- Alternatives to netlfiy
