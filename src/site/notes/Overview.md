@@ -44,10 +44,9 @@ To get started, read the [[Quick Start\|Quick Start]].
 
 <div style="display: flex; justify-content: center">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
-		<button>Submit your own site here</button>
+		<button>Submit your site</button>
 	</a>
 </div>
-
 
 
 [[Content Support\|Content Support]]
@@ -55,6 +54,7 @@ To get started, read the [[Quick Start\|Quick Start]].
 [[Note settings\|Note settings]]
 [[Updating the template\|Updating the template]]
 [[VS\|VS]]
+
 
 <style>
 h1, h2, h3, h4, h5,  h6 {
