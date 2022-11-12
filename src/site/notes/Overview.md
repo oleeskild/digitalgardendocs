@@ -3,6 +3,9 @@
 ---
 
 
+
+# 🏡
+
 # Obsidian Digital Garden
 
 
