@@ -4,7 +4,7 @@
 
 
 
-# 🏡
+<h1 style="font-size: 128px">🏡</h1>
 
 # Obsidian Digital Garden
 
