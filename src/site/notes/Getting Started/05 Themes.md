@@ -13,4 +13,4 @@ When you're done choosing a theme, click the "Apply settings to site" to make it
 
 [Style settings](https://github.com/mgmeyers/obsidian-style-settings) are unfortunately not yet supported. This is on the development roadmap and will be added sometime in the future. 
 
-Next: [[0\|0]]
+Next: [[Getting Started/06 Updating the template\|06 Updating the template]]
