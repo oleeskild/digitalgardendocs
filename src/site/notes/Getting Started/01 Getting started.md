@@ -66,4 +66,6 @@ You can now start adding links as you usually would in Obisidan, with double squ
 
 Remember to also publish the notes your are linking to as this will not happen automatically. This is by design. You are always in control of what notes you actually want to publish. If you did not publish a linked note, the link will simply lead to a site telling the user that this note does not exist. 
 
+If you want to unpublish a note, without deleting the note from your vault, simply remove the dg-publish: true attribute in the fronmatter, open the [[Getting Started/02 Commands#Open Publication Center\|publication center]] and click the "Delete notes from garden" button. 
+
 Now that you are up an running, you can take a look at the available [[Getting Started/02 Commands\|commands]] or the various available [[Getting Started/03 Note settings\|note settings]]. Or maybe you want to [[Getting Started/05 Themes\|change your theme]]?
