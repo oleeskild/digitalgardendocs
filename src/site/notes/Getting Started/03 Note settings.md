@@ -67,5 +67,5 @@ E.g. for this site: [https://dg-docs.ole.dev/?q=Commands](https://dg-docs.ole.de
 
 ---
 
-### Note-specific settings
+## Note-specific settings
 There are also some [[Advanced/Note Specific Settings\|Note Specific Settings]] that are not in the "Note Settings" view. These are settings that can only be set for specific notes. An overview of these are available [[Advanced/Note Specific Settings\|here]].
