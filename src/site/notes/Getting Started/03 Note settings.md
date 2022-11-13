@@ -20,34 +20,52 @@ dg-publish: true
 dg-enable-search: false
 ```
 
+
+
 ## Available settings
+
+---
 
 ### Show home link
 On by default. If this is turned on, a navbar will show at the top of each note. The site name will be displayed as a header, and can be clicked on. Clicking on it will take the user back to the home note. By default the site name is "Digital Garden". This can be changed via the [[Getting Started/04 Appearance Settings#Sitename\|04 Appearance Settings#Sitename]] settings. 
 
+---
+
 ### Let all frontmatter through
 Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
+
+---
 
 ### Show backlinks for notes
 Off by default. When turned on, your published notes will display a list of notes linking back to it. It will only show notes that have been published. 
 On desktop and bigger screens it will be placed on the right. On mobile and smaller screens it is put on the bottom of the page.
 
+---
+
 ### Show local graph for notes
 Off by default. When turned on a local graph, like the one in Obsidian, will be shown to the right. It will show both outgoing and incoming links to the current note. It is interactive, and can be moved around. Clicking one of the nodes will take you to the corresponding note.
 On desktop it is shown to the right. On mobile it is hidden. 
 
+---
+
 ### Show inline title
 Off by default. When turned on, the filename will be shown on the top of the page. Similar to the "Show inline title" setting introduced in Obsidian v1.0.
 
+---
+
 ### Show filetree sidebar
 Off by default. When turned on, a sidebar will be shown to the right, with all your published notes displayed in the folder hierarchy they are placed in in Obsidian. On smaller screens it will disappear, but can be viewed by clicking the "hamburger" menu in the top left corner.
+
+---
 
 ### Enable search
 Off by default. When enabled, users have the option to easily search through all your published notes. The searchbox can be viewed by clicking the search box that appears in the upper right corner, or on the top of the filetree sidebar if this is enabled. It can also be triggerd by pressing CTRL+K on Windows/Linux or CMD+K on MacOS. 
 A dialog will pop up. The results can be navigated by using your keyboard using the up and down arrow keys. Pressing enter will take you to the note. Pressing ESC will close the search box.
 
 When search is enabled, you can also construct URLs that shows a search and the result. This is done by specifying a "q" query parameter in the URL. 
-E.g. for this site: [https://resonant-paletas-622901.netlify.app/?q=Commands](https://resonant-paletas-622901.netlify.app/?q=Commands)
+E.g. for this site: [https://dg-docs.ole.dev/?q=Commands](https://dg-docs.ole.dev/?q=Commands)
+
+---
 
 ### Note-specific settings
 There are also some [[Advanced/Note Specific Settings\|Note Specific Settings]] that are not in the "Note Settings" view. These are settings that can only be set for specific notes. An overview of these are available [[Advanced/Note Specific Settings\|here]].
