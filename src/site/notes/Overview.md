@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5,  h6, .content {
 @media(max-width:1490px){
 	.sidebar {
 		margin: auto;
+		margin-top: 50px;
 	}
 }
 </style>
