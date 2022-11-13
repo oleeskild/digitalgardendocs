@@ -23,8 +23,6 @@ Link to other notes with double brackets like you normally would in obsidian.
 
 [[Overview]]
 
-
-
 ### Callouts/Admonitions
 
 ```
