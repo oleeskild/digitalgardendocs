@@ -55,7 +55,7 @@ will result in
 
 ### HTML Button
 ```html
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; cursor:pointer;">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
 		<button>Submit your site</button>
 	</a>
@@ -64,9 +64,28 @@ will result in
 
 will result in
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
 		<button>Submit your site</button>
+	</a>
+</div>
+
+```html
+<div style="display: flex; justify-content: center; cursor: pointer;">
+	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Submit your digital garden site
+		</button>
+	</a>
+</div>
+```
+
+will result in 
+<div style="display: flex; justify-content: center; cursor: pointer;">
+	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Submit your digital garden site
+		</button>
 	</a>
 </div>
 
