@@ -12,7 +12,7 @@ The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digi
 
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
 		<button style=" font-size: 32px; padding: 10px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			GET STARTED
