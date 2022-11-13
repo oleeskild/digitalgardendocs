@@ -9,13 +9,14 @@
 # Obsidian Digital Garden
 
 The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free (and open source) alternative to [Obsidian Publish](https://obsidian.md/publish). 
+
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
 
 This site is itself powered by the Digital Garden plugin. 
 <div style="display: flex; justify-content: center">
 	<a href="/getting-started/01-getting-started/">
-		<button style=" font-size: 32px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
-			QUICK START
+		<button style=" font-size: 32px; padding: 10px; height: fit-content; margin-top: 20px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			GET STARTED
 		</button>
 	</a>
 </div>
