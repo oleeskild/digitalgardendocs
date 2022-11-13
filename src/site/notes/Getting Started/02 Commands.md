@@ -26,3 +26,6 @@ This will open the publication center dialog. Here you can view a list what file
 
 ### Add publish flag
 This will automatically add a `dg-publish: true` to the frontmatter in the currently active note. 
+
+
+Next: [[Getting Started/03 Note settings\|03 Note settings]]
