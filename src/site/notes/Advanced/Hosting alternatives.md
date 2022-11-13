@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/advanced/hosting-alternatives/"}
 ---
 
-While the [[Getting Started/01 Quick Start\|01 Quick Start]] uses Netlify as the hosting platform, this can be run on any other hosting platform. Below are some guides on getting it to run on other platforms.
+While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. Step by step instructions are yet to be written. 
 
 ## Cloudflare
 
@@ -13,3 +13,15 @@ While the [[Getting Started/01 Quick Start\|01 Quick Start]] uses Netlify as the
 
 > [!WARNING] Work in progress
 > 🔧
+
+## Deno
+
+> [!WARNING] Work in progress
+> 🔧
+
+
+## Github Pages
+
+> [!WARNING] Work in progress
+> 🔧
+
