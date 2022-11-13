@@ -65,7 +65,7 @@ This is a transcluded note.
 (More details on transclusion can be read here: [[Advanced/Content Customization#Tranclusions\|Content Customization#Tranclusions]] )
 
 
-### Dataview queryes
+### Dataview queries
 ```(dataview)
 list from "Advanced"
 ```
