@@ -54,7 +54,7 @@ This site is itself powered by the Digital Garden plugin.
 </div>
 
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			Submit your digital garden site
@@ -64,7 +64,7 @@ This site is itself powered by the Digital Garden plugin.
 
 
 <style>
-h1, h2, h3, h4, h5,  h6 {
+h1, h2, h3, h4, h5,  h6, .content {
 	text-align: center;
 }
 </style>
