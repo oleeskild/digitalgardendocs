@@ -15,7 +15,7 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 This site is itself powered by the Digital Garden plugin. 
 <div style="display: flex; justify-content: center">
 	<a href="/getting-started/01-getting-started/">
-		<button style=" font-size: 32px; padding: 10px; height: fit-content; margin-top: 20px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+		<button style=" font-size: 32px; padding: 10px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			GET STARTED
 		</button>
 	</a>
