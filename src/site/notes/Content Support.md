@@ -66,6 +66,7 @@ This is a transcluded note.
 
 
 ### Dataview queries
+
 ```(dataview)
 list from "Advanced"
 ```
