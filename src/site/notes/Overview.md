@@ -48,7 +48,9 @@ To get started, read the [[Getting Started/01 Getting started\|Getting Started p
 
 <div style="display: flex; justify-content: center">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
-		<button>Submit your site</button>
+		<button style=" font-size: 48px; padding: 10px; height: fit-content; margin: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Submit your site
+		</button>
 	</a>
 </div>
 
