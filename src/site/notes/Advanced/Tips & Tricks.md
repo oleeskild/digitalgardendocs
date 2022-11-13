@@ -8,12 +8,17 @@ Here are a collection and tips and tricks that can be of use when publishing you
 ## Publish excalidrawing
 If you want to publish a excalidrawing, without having to transclude it into another note, you can simply add the dg-publish: true flag to the frontmatter of the excalidraw file. It will then be published as a standalone note, with only the excalidrawing showing. 
 
+---
+
 ## Mark multiple notes with dg-publish
 The plugin itself doesn't provide any easy way to mark multiple notes at once with the dg-publish attribute. However you can make use of a plugin like [MetaEdit](https://github.com/chhoumann/MetaEdit) which has many features designed for exactly this. 
+
+---
 
 ## Automatically add publish flag to when adding files to folder
 Some people have requested functionality for publishing all notes in a given folder. To do this, you can combine this plugin with the [Templater plugin](https://github.com/SilentVoid13/Templater) to create folders which will automatically use a template having the dg-publish attribute set. Thanks to [vanadium23](https://github.com/vanadium23) for [sharing this tip.](https://github.com/oleeskild/obsidian-digital-garden/issues/26#issuecomment-1114321275)
 
+---
 
 ## Render HTML
 If you write any HTML in your notes, they will be rendered in the garden. This means you can create custom "website-like" component on your site. As an example, the grid rendered  in [[Overview#Sites people have created\|Overview#Sites people have created]] was created using divs and image tags with some custom inline styling. 
