@@ -78,11 +78,11 @@ It's also worth noting that transclusions *do not need* the dg-publish attribute
 list from "Advanced"
 ```
 
+- [[Advanced/Content Customization\|Content Customization]]
+- [[Advanced/Dataview queries\|Dataview queries]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Tips & Tricks\|Tips & Tricks]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
-- [[Advanced/Dataview queries\|Dataview queries]]
-- [[Advanced/Content Customization\|Content Customization]]
 
 
 ### Mermaid diagrams
