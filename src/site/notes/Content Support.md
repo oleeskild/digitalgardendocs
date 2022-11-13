@@ -14,15 +14,6 @@ let a = 5;
 
 `Some inline code`
 
-### Links to other document
-Link to other notes with double brackets like you normally would in obsidian.
-
-```markdown
-[[Overview\|Overview]]
-```
-
-[[Overview]]
-
 ### Callouts/Admonitions
 
 ```
