@@ -72,5 +72,8 @@ h1, h2, h3, h4, h5,  h6, .content {
 		margin: auto;
 		margin-top: 50px;
 	}
+	.sidebar-container {
+		padding-right: 0;
+	}
 }
 </style>
