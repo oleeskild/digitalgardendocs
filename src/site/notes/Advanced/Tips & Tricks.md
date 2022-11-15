@@ -53,7 +53,9 @@ will result in
 [<img style="float:left" src="https://user-images.githubusercontent.com/14358394/115450238-f39e8100-a21b-11eb-89d0-fa4b82cdbce8.png" width="200">](https://ko-fi.com/oleeskild)
 
 
+
 ### HTML Button
+
 ```html
 <div style="display: flex; justify-content: center; cursor:pointer;">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
@@ -69,6 +71,8 @@ will result in
 		<button>Submit your site</button>
 	</a>
 </div>
+
+### Styled HTML button
 
 ```html
 <div style="display: flex; justify-content: center; cursor: pointer;">
