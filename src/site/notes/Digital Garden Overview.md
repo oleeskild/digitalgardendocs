@@ -34,7 +34,7 @@ This site is itself powered by the Digital Garden plugin.
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500118/dgdocs/CleanShot_2022-11-15_at_09.14.17_2x.png"/>
-		<a href="https://razvan-andrei-surdu.eu/">razvan-andrei-surdu.eu</a>
+		<a href="https://razvan-andrei-surdu.eu/">Razvan Andrei Surdu</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
