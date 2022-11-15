@@ -10,7 +10,7 @@
 
 The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free (and open source) alternative to [Obsidian Publish](https://obsidian.md/publish). 
 
-Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
+Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  [[Getting Started/01 Getting started\|01 Getting started]]
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
