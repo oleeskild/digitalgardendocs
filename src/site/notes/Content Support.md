@@ -83,6 +83,7 @@ list from "Advanced"
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Tips & Tricks\|Tips & Tricks]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 
 
 ### Mermaid diagrams
