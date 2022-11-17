@@ -29,16 +29,20 @@ This site is itself powered by the Digital Garden plugin.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+			<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668690350/dgdocs/CleanShot_2022-11-17_at_14.05.20_2x.png"/>
+			<a href="https://edav-garden.netlify.app/">Edav Garden</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
+		<a href="https://ajy.co/">ajy.co</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
 		<a href="https://notes.thatother.dev/">That Other Dev</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500118/dgdocs/CleanShot_2022-11-15_at_09.14.17_2x.png"/>
 		<a href="https://razvan-andrei-surdu.eu/">Razvan Andrei Surdu</a>
-	</div>
-	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
-		<a href="https://ajy.co/">ajy.co</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/>
