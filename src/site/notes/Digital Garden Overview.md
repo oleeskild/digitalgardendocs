@@ -30,39 +30,35 @@ This site is itself powered by the Digital Garden plugin.
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 			<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668690350/dgdocs/CleanShot_2022-11-17_at_14.05.20_2x.png"/>
-			<a href="https://edav-garden.netlify.app/">Edav Garden</a>
+			<a href="https://edav-garden.netlify.app/" target="_blank">Edav Garden</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
-		<a href="https://ajy.co/">ajy.co</a>
+		<a href="https://ajy.co/" target="_blank">ajy.co</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
-		<a href="https://notes.thatother.dev/">That Other Dev</a>
+		<a href="https://notes.thatother.dev/" target="_blank">That Other Dev</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500118/dgdocs/CleanShot_2022-11-15_at_09.14.17_2x.png"/>
-		<a href="https://razvan-andrei-surdu.eu/">Razvan Andrei Surdu</a>
+		<a href="https://razvan-andrei-surdu.eu/" target="_blank">Razvan Andrei Surdu</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/>
-		<a href="https://syleria.netlify.app/">Syleria</a>
+		<a href="https://syleria.netlify.app/" target="_blank">Syleria</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068422/dgdocs/CleanShot_2022-11-10_at_09.20.10_2x.png"/>
-		<a href="https://alberer.contact">alberer.contact</a>
+		<a href="https://alberer.contact" target="_blank">alberer.contact</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068358/dgdocs/CleanShot_2022-11-10_at_09.19.06_2x.png"/>
-		<a href="https://notes.hxhc.xyz/">hxhc</a>
-	</div>
-	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068469/dgdocs/CleanShot_2022-11-10_at_09.20.54_2x.png"/>
-		<a href="https://erosaezhe.netlify.app/">erosaezhe</a>
+		<a href="https://notes.hxhc.xyz/" target="_blank">hxhc</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068544/dgdocs/CleanShot_2022-11-10_at_09.21.44_2x.png"/>
-		<a href="https://notes.ole.dev/">ole.dev</a>
+		<a href="https://notes.ole.dev/" target="_blank">ole.dev</a>
 	</div>
 </div>
 
