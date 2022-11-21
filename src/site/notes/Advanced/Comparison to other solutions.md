@@ -12,7 +12,7 @@ Other advantages with integrating so tightly with obsidian is that we can take a
 Because of the various customization options, you can also use it as a simple notesharing solution, creating links to your notes to easily share them with friends and colleagues. No need to enable all the bells and whistles like backlinks, search and graphs if you don't need them.
 
 ## Cons
-The downside of this tight coupling with Obsidian is of course that this plugin isn't as easy to use with other writing tools than Obsidian, as some of the other gardens is. 
+The downside of this tight coupling with Obsidian is of course that this garden isn't as easy to integrate with other writing tools than Obsidian, as some of the other gardens is. 
 
 But if you'll ever decide to switch to another tool, all your files are still available as plain text, so switching shouldn't be too hard. 
 
