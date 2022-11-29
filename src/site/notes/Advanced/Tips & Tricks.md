@@ -19,10 +19,6 @@ Some people have requested functionality for publishing all notes in a given fol
 
 ---
 
-## Custom page title
-
----
-
 ## Render HTML
 If you write any HTML in your notes, they will be rendered in the garden. This means you can create custom "website-like" component on your site. As an example, the grid rendered  in [[Digital Garden Overview#Sites people have created\|Digital Garden Overview#Sites people have created]] was created using divs and image tags with some custom inline styling. 
 
