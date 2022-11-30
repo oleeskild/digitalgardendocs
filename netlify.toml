@@ -1,18 +1,6 @@
 [build]
   publish = "dist"
   command = "npm install && npm run build"
- 
-[[redirects]]
-  from = "http://dgdocs.ole.dev/*"
-  to = "http://dg-docs.ole.dev/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "https://dgdocs.ole.dev/*"
-  to = "https://dg-docs.ole.dev/:splat"
-  status = 301
-  force = true
 
 [[redirects]]
   from = "/api/*"
@@ -23,5 +11,4 @@
   from = "/*"
   to = "/404"
   status = 404
-
 
