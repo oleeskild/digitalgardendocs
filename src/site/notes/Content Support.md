@@ -43,7 +43,8 @@ let a = 5;
 
 ---
 
-## MathJax
+## MathJax \ LaTex
+[MathJax Reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
 ```
 $$\frac{1}{0} = \infty$$
