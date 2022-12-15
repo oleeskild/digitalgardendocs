@@ -77,6 +77,9 @@ This site is itself powered by the Digital Garden plugin.
 h1, h2, h3, h4, h5,  h6, .content {
 	text-align: center;
 }
+.sidebar{
+	text-align: start;
+}
 @media(max-width:1490px){
 	.sidebar {
 		margin: auto;
