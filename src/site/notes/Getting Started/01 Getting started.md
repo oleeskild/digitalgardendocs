@@ -25,6 +25,10 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
    
 5. Next you need to create an access token to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page. 
 
+> [!tip] A more secure option
+> GitHub has recently launced a beta feature, where you can target what repositories the token has to. This is currently the most secure way to the plugin. See [[Advanced/Fine grained access token\|Fine grained access token]] for details on how to generate this instead.
+
+
 ---
 
 6. Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo with your notes which you created in step 3, and lastly paste in your token. 
