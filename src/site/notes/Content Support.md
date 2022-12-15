@@ -100,12 +100,13 @@ It's also worth noting that transclusions *do not need* the dg-publish attribute
 list from "Advanced"
 ```
 
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Content Customization\|Content Customization]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Tips & Tricks\|Tips & Tricks]]
+- [[Advanced/Roadmap\|Roadmap]]
 
 ---
 
