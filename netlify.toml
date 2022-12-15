@@ -15,6 +15,12 @@
   force = true
 
 [[redirects]]
+  from = "https://dg-docs.netlify.app/*"
+  to = "https://dg-docs.ole.dev/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
