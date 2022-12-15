@@ -31,20 +31,21 @@ On by default. If this is turned on, a navbar will show at the top of each note.
 
 ---
 
-### Let all frontmatter through
-Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
+### Show local graph for notes
+Off by default. When turned on a local graph, like the one in Obsidian, will be shown to the right. It will show both outgoing and incoming links to the current note. It is interactive, and can be moved around. Clicking one of the nodes will take you to the corresponding note.
+On desktop it is shown to the right. On mobile it is hidden. 
+
+---
+
+### Show a table of content for notes
+Off by default. When turned on, a list of all headers in your note will be shown to the right. Clicking one the headers will scroll to the corresponding header in the note.
+On desktop it is shown to the right. On mobile it is hidden. 
 
 ---
 
 ### Show backlinks for notes
 Off by default. When turned on, your published notes will display a list of notes linking back to it. It will only show notes that have been published. 
 On desktop and bigger screens it will be placed on the right. On mobile and smaller screens it is put on the bottom of the page.
-
----
-
-### Show local graph for notes
-Off by default. When turned on a local graph, like the one in Obsidian, will be shown to the right. It will show both outgoing and incoming links to the current note. It is interactive, and can be moved around. Clicking one of the nodes will take you to the corresponding note.
-On desktop it is shown to the right. On mobile it is hidden. 
 
 ---
 
@@ -64,6 +65,12 @@ A dialog will pop up. The results can be navigated by using your keyboard using 
 
 When search is enabled, you can also construct URLs that shows a search and the result. This is done by specifying a "q" query parameter in the URL. 
 E.g. for this site: [https://dg-docs.ole.dev/?q=Commands](https://dg-docs.ole.dev/?q=Commands)
+
+---
+
+### Let all frontmatter through
+Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
+
 
 ---
 
