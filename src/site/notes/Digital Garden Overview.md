@@ -37,6 +37,10 @@ This site is itself powered by the Digital Garden plugin.
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
 		<a href="https://ajy.co/" target="_blank">ajy.co</a>
 	</div>
+<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-12-18_at_19.06.43_2x_xbuq1p.png"/>
+		<a href="https://booksbeansboots.co.uk/" target="_blank">books beans boots</a>
+	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
 		<a href="https://notes.thatother.dev/" target="_blank">That Other Dev</a>
@@ -50,16 +54,12 @@ This site is itself powered by the Digital Garden plugin.
 		<a href="https://syleria.netlify.app/" target="_blank">Syleria</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068422/dgdocs/CleanShot_2022-11-10_at_09.20.10_2x.png"/>
-		<a href="https://alberer.contact" target="_blank">alberer.contact</a>
-	</div>
-	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068358/dgdocs/CleanShot_2022-11-10_at_09.19.06_2x.png"/>
 		<a href="https://notes.hxhc.xyz/" target="_blank">hxhc</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068544/dgdocs/CleanShot_2022-11-10_at_09.21.44_2x.png"/>
-		<a href="https://notes.ole.dev/" target="_blank">ole.dev</a>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1671387169/dgdocs/CleanShot_2022-12-18_at_19.12.28_2x.png"/>
+		<a href="https://notes.ole.dev/" target="_blank">notes.ole.dev</a>
 	</div>
 </div>
 
