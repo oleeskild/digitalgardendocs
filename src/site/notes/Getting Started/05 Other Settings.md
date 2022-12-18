@@ -7,7 +7,7 @@
 The plugin "slugifies" your URLs by default. In essence this means that a note with the path "My Folder/My Note.md" will get the URL "my-folder/my-note". 
 You can disable this by turning this setting off. 
 
-> [!faw] Non-English Characters
+> [!faq] Non-English Characters
 > Slugifying the URL causes some non-English characters, like Chinese characters, to disappear. Resulting in all notes getting an empty URL. If you've experienced this issue, disabling this setting should fix that.
 
 
