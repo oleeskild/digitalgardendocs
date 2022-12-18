@@ -13,13 +13,19 @@ You should then be presented with a dialog looking like this:
 
 When these are turned on or off, the setting will instantly be published to your site. The settings set here are the global default settings used for each published note. If you want more granular control, and disable or enable some features for some particular notes, you can do this via front matter. All the settings has the frontmatter equivalence written in paranthesis behind the settings. 
 
-So if you have enabled the filetree sidebar globally, but have one note where you want to disable this, you can do so by setting the dg-enable-search to false:
+So if you have enabled the search globally, but have one note where you want to disable this, you can do so by setting the `dg-enable-search` to false:
 
 ```
 dg-publish: true
 dg-enable-search: false
 ```
 
+Or the other way around: If you have disabled the graph globally, but have a note where you want it to show, you can set the `dg-show-local-graph` to true.
+
+```
+dg-publish: true
+dg-show-local-graph: true
+```
 
 
 ## Available settings
