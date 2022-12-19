@@ -65,6 +65,11 @@ Off by default. When turned on, a sidebar will be shown to the right, with all y
 
 ---
 
+### Link preview
+Off by default. When turned on, all links will show a preview of the note content when you hover over them.
+
+---
+
 ### Enable search
 Off by default. When enabled, users have the option to easily search through all your published notes. The searchbox can be viewed by clicking the search box that appears in the upper right corner, or on the top of the filetree sidebar if this is enabled. It can also be triggerd by pressing CTRL+K on Windows/Linux or CMD+K on MacOS. 
 A dialog will pop up. The results can be navigated by using your keyboard using the up and down arrow keys. Pressing enter will take you to the note. Pressing ESC will close the search box.
