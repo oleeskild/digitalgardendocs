@@ -14,7 +14,6 @@ You can enable the following features in your digital garden, in the [[Getting S
 Additionally the garden supports a variety of formatting and content in your notes.  Other than supporting basic markdown and `[[wikilinks]]`, the plugins also support the following content:
 
 
-
 ## Basic Markdown Syntax
 **Bold text** follwed by *italic text*
 
