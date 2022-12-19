@@ -2,7 +2,17 @@
 {"dg-publish":true,"permalink":"/features/"}
 ---
 
-In addition to supporting basic markdown and `[[wikilinks]]`, the plugins also support a variety of other content.
+
+You can enable the following features in your digital garden, in the [[Getting Started/03 Note settings\|note settings]]:
+* Local Graph
+* Backlinks
+* Table Of Content
+* Filetree navigation
+* Link preview
+* Search
+
+Additionally the garden supports a variety of formatting and content in your notes.  Other than supporting basic markdown and `[[wikilinks]]`, the plugins also support the following content:
+
 
 
 ## Basic Markdown Syntax
@@ -100,14 +110,14 @@ It's also worth noting that transclusions *do not need* the dg-publish attribute
 list from "Advanced"
 ```
 
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
-- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
+- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips & Tricks\|Tips & Tricks]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 
 ---
 
