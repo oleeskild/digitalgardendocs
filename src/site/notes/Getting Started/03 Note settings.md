@@ -89,4 +89,4 @@ Off by default. Most users want this turned off. This is a setting mainly for ad
 There are also some [[Advanced/Note Specific Settings\|Note Specific Settings]] that are not in the "Note Settings" view. These are settings that can only be set for specific notes. An overview of these are available [[Advanced/Note Specific Settings\|here]].
 
 
-Next: [[Getting Started/04 Appearance Settings\|04 Appearance Settings]]
+[[Getting Started/02 Commands\|< Prev]] | [[Getting Started/04 Appearance Settings\|Next: Appearance Settings >]]
