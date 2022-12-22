@@ -28,4 +28,4 @@ This will open the publication center dialog. Here you can view a list what file
 This will automatically add a `dg-publish: true` to the frontmatter in the currently active note. 
 
 
-Next: [[Getting Started/03 Note settings\|03 Note settings]]
+ [[Getting Started/01 Getting started\|< Prev]] | [[Getting Started/03 Note settings\|Next: Note Settings >]]
