@@ -73,3 +73,5 @@ Remember to also publish the notes your are linking to as this will not happen a
 If you want to unpublish a note, without deleting the note from your vault, simply remove the dg-publish: true attribute in the fronmatter, open the [[Getting Started/02 Commands#Open Publication Center\|publication center]] and click the "Delete notes from garden" button. 
 
 Now that you are up and running, you can take a look at the available [[Getting Started/02 Commands\|commands]] or the various available [[Getting Started/03 Note settings\|note settings]]. Or maybe you want to [[Getting Started/04 Appearance Settings\|change your theme]]?
+
+[[Getting Started/02 Commands\|Next: Commands >]]
