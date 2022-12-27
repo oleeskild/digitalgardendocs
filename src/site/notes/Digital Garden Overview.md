@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-show-inline-title":false,"dg-pass-frontmatter":true,"permalink":"/digital-garden-overview/","tags":"gardenEntry","dgPassFrontmatter":true,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/digital-garden-overview/","tags":"gardenEntry","dgShowInlineTitle":false}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Obsidian Digital Garden
 
-The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free and open source alternative to [Obsidian Publish](https://obsidian.md/publish). 
+The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free and open source publish alternative for [Obsidian](https://obsidian.md). 
 
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
 
