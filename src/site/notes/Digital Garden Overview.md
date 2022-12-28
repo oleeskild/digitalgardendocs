@@ -8,7 +8,7 @@
 
 # Obsidian Digital Garden
 
-The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free and open source publish alternative for [Obsidian](https://obsidian.md). 
+The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free and open source publishing tool for [Obsidian](https://obsidian.md). 
 
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet.  
 
