@@ -140,8 +140,8 @@ It's also worth noting that transclusions *do not need* the dg-publish attribute
 list from "Advanced"
 ```
 
-- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
