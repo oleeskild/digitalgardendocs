@@ -143,11 +143,11 @@ list from "Advanced"
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
-- [[Advanced/Fine grained access token\|Fine grained access token]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips & Tricks\|Tips & Tricks]]
+- [[Advanced/Fine grained access token\|Fine grained access token]]
 
 ---
 
