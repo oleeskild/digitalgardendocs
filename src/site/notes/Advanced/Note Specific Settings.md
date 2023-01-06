@@ -3,7 +3,7 @@
 ---
 
 ## Title
-If you want to use a custom page title instead of the name of your note, you can use the "title" attribute in frontmatter. This will then be used as the page title for the note. 
+If you want to use a custom page title instead of the name of your note, you can use the "title" attribute in frontmatter. This allows you to use characters that are not allowed to use in filenames. (Ex: ":", "/", "|") 
 
 ```
 ---
