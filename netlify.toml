@@ -29,3 +29,4 @@
   to = "https://dg-docs.ole.dev/:splat"
   status = 301
   force = true
+  
