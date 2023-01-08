@@ -33,3 +33,24 @@ dg-permalink: "category/2022/mynote/"
 ---
 ```
 
+
+## Metatags
+Setting metatags for a note can be done by adding a dg-meta-tags attribute like so:
+
+```
+dg-meta-tags:
+ description: "some description"
+ "og:image": "https://example.com/someimage.png"
+```
+
+Note that there is a single space before the "description" field, **not** a tab. 
+
+This feature can be used if you want custom titles and images when sharing links in social media. Using the example below will add a title and an image that will be used when sharing the link in social media. 
+
+```
+dg-meta-tags:
+ "og:title": "Title Appearing on Social Media Site"
+ "og:image": "https://example.com/someimage.png"
+```
+
+Read more about the [Open Graph Protocol](https://ogp.me/)
