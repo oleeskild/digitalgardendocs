@@ -39,7 +39,7 @@ On by default. If this is turned on, a navbar will show at the top of each note.
 
 ### Show local graph for notes
 Off by default. When turned on a local graph, like the one in Obsidian, will be shown to the right. It will show both outgoing and incoming links to the current note. It is interactive, and can be moved around. Clicking one of the nodes will take you to the corresponding note.
-On desktop it is shown to the right. On mobile it is hidden. 
+On desktop it is shown to the right. On mobile it is shown in the . 
 
 ---
 
