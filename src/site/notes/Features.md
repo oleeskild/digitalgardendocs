@@ -13,6 +13,8 @@ You can enable the following features in your digital garden, in the [[Getting S
 
 Additionally the garden supports a variety of formatting and content types in your notes. 
 
+---
+
 ## Wikilinks
 Link as you normally would in Obisidan, with the `[[Wikilink]]` syntax
 
