@@ -56,8 +56,8 @@ list from "Advanced"
 - [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Roadmap\|Roadmap]]
-- [[Advanced/Tips & Tricks\|Tips & Tricks]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Tips and Tricks\|Tips and Tricks]]
 
 ---
 
