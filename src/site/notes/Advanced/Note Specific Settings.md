@@ -12,6 +12,8 @@ title: "My Custom Title"
 ---
 ```
 
+---
+
 ## Custom Links
 
 This plugin supports setting custom links to a note, if you prefer something else than the default behaviour. This is done by adding a dg-permalink attribute to the frontmatter of your file. As an example, the top of your file could look like this:
@@ -33,6 +35,7 @@ dg-permalink: "category/2022/mynote/"
 ---
 ```
 
+---
 
 ## Metatags
 Setting metatags for a note can be done by adding a dg-meta-tags attribute like so:
