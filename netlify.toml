@@ -11,22 +11,4 @@
   from = "/*"
   to = "/404"
   status = 404
-  
-[[redirects]]
-  from = "http://dgdocs.ole.dev/*"
-  to = "http://dg-docs.ole.dev/:splat"
-  status = 301
-  force = true
 
-[[redirects]]
-  from = "https://dgdocs.ole.dev/*"
-  to = "https://dg-docs.ole.dev/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://dg-docs.netlify.app/*"
-  to = "https://dg-docs.ole.dev/:splat"
-  status = 301
-  force = true
-  
