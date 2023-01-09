@@ -79,6 +79,12 @@ E.g. for this site: [https://dg-docs.ole.dev/?q=Commands](https://dg-docs.ole.de
 
 ---
 
+### Show Tags
+Off by default. When turned on, any tags in your note's frontmatter will show at the top of the page, just under the note title. 
+If search is enabled, clicking on a tag will bring up the search box and show all notes with that tag. 
+
+---
+
 ### Let all frontmatter through
 Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
 
