@@ -50,14 +50,14 @@ let a = 5;
 list from "Advanced"
 ```
 
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Content Customization\|Content Customization]]
-- [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
-- [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Dataview queries\|Dataview queries]]
+- [[Advanced/Roadmap\|Roadmap]]
 
 ---
 
