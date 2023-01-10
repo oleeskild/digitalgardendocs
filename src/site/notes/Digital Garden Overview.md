@@ -12,9 +12,9 @@ The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digi
 
 Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet. [[Features\|Feature packed]] and highly configurable. Enable and disable features on a per-note basis. Use it as a full fledged digital garden or as a  [[Example pages/Simple Page\|simple note sharing solution]] .
 
-## [[Getting Started/01 Getting started\|GETTING STARTED]]
 
-<div style="display:none; justify-content: center; cursor: pointer;">
+[[Getting Started/01 Getting started\|01 Getting started]]
+<div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
 		<button style=" font-size: 32px; padding: 10px 20px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer;">
 			GETTING STARTED
