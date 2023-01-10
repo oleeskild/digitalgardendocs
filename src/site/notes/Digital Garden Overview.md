@@ -14,7 +14,6 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 
 ## [[Getting Started/01 Getting started\|GETTING STARTED]]
 
-[[Getting Started/01 Getting started\|01 Getting started]]
 <div style="display:none; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
 		<button style=" font-size: 32px; padding: 10px 20px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer;">
