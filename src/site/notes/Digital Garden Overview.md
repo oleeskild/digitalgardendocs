@@ -72,9 +72,3 @@ This site is itself powered by the Digital Garden plugin.
 	</a>
 </div>
 
-
-<style>
-a.internal-link[href="/getting-started/01-getting-started/"] {
-	display: none;
-}
-</style>
