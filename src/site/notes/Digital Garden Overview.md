@@ -10,7 +10,7 @@
 
 The  [Obsidian Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) is a free and open source publishing tool for [Obsidian](https://obsidian.md). 
 
-Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet. [[Features\|Feature packed]] and highly configurable. Enable and disable features on a per-note basis. Use it as a full fledged digital garden or as a  [[Example pages/Simple Page\|simple note sharing solution]] .
+Publish your notes directly from [Obsidian](https://obsidian.md/) to the internet. [[Features\|Feature packed]] and [[Getting Started/03 Note settings\|highly configurable]]. Enable and disable features on a per-note basis. Use it as a full fledged digital garden or as a  [[Example pages/Simple Page\|simple note sharing solution]] .
 
 👉 [[Getting Started/01 Getting started\|Getting Started]]
 👉 [[Features\|Features]]
