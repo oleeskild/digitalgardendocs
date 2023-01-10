@@ -10,6 +10,7 @@ You can enable the following features in your digital garden, in the [[Getting S
 * Filetree navigation
 * Link preview
 * Search
+* Frontmatter tags
 
 Additionally the garden supports a variety of formatting and content types in your notes. 
 
@@ -50,14 +51,14 @@ let a = 5;
 list from "Advanced"
 ```
 
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Content Customization\|Content Customization]]
+- [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
-- [[Advanced/Tips and Tricks\|Tips and Tricks]]
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
-- [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Roadmap\|Roadmap]]
+- [[Advanced/Tips and Tricks\|Tips and Tricks]]
 
 ---
 
