@@ -6,7 +6,7 @@ While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlif
 
 ## Vercel
 > [!WARNING] Partially supported
-> Search are currently not supported on Vercel 
+> Search is currently not supported on Vercel 
 
 ### Blank garden
 To deploy your site to Vercel instead of Netlify, follow the steps in [[Getting Started/01 Getting started\|01 Getting started]], but instead of using the "Deploy to Netlify" button in step 3, click the button below.
