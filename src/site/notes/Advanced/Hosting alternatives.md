@@ -4,6 +4,9 @@
 
 While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. Step by step instructions are yet to be written. 
 
+## Self hosting
+If you want to host this on your own server, you can use the approach explained in the [following GitHub discussion](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
+
 ## Vercel
 > [!WARNING] Partially supported
 > Search is currently not supported on Vercel 
