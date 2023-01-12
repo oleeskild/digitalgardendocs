@@ -17,9 +17,6 @@ In the future you will be notified with a visual cue whenever there is an update
 ![Updating the template](https://res.cloudinary.com/dix4ngy25/image/upload/q_auto/v1673511572/dgdocs/CleanShot_2023-01-11_at_22.06.35_2x_1.png)
 
 
-[[CleanShot 2023-01-11 at 22.06.35@2x 1.png]]
-
-
 ## Modifying the template/site
 The code for the website is available in the repo you created in step 3 in the [[Getting Started/01 Getting started\|getting started page]], and this is yours to modify however you want. If you know some css I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid
 future conflict when updating the template. Netlify should automatically update your site when you make changes to the code.
