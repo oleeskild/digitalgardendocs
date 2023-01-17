@@ -62,7 +62,7 @@ list from "Advanced"
 
 ---
 
-## Callouts/Admonitions
+## Callouts
 
 ```
 > [!NOTE] Note title
@@ -80,6 +80,43 @@ list from "Advanced"
 
 > [!WARNING] A warning
 > This is a warning
+
+### Folding Callouts
+```
+> [!NOTE]+ Open by default
+> Folding/Collapsable callout
+```
+
+> [!NOTE]+ Open by default
+> Folding/Collapsable callout
+
+
+```
+> [!FAQ]- Closed by default
+> Folding/Collapsable callout
+```
+
+> [!FAQ]- Closed by default
+> Folding/Collapsable callout
+
+### Nested callouts
+
+```
+> [!TIP] Nested callouts
+> Text inside the tip callout
+> > [!EXAMPLE] Inner callout
+> > Multiple nesting layers
+> > > [!TODO] Inner inner callout
+```
+
+> [!TIP] Nested callouts
+> Text inside the tip callout
+> > [!EXAMPLE] Inner callout
+> > Multiple nesting layers
+> > > [!TODO] Inner inner callout
+
+
+
 
 ---
 
