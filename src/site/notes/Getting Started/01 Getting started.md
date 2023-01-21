@@ -22,7 +22,7 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
    This should open netlify and create a copy of this repository in your GitHub accont. Give it a fitting name like 'my-digital-garden'. Follow the steps in Netlify to publish your site to the internet.
 
  > [!WARNING] Netlify Issues
-> As of writing this there are some issues with Netlify, and this button won't create a copy. If that happens you will get an error when trying to deply your site. If this happens, there is a workaround for this step [available here](https://github.com/oleeskild/obsidian-digital-garden/issues/167)
+> As of writing this on January 21st, 2023 there are some issues with Netlify, and this button won't create a copy. If that happens you will get an error when trying to deply your site. If this happens, there is a workaround for this step [available here](https://github.com/oleeskild/obsidian-digital-garden/issues/167)
    
    --- 
    
