@@ -28,6 +28,17 @@ Verify that the following settings are set for "Build and Output" :
 
 Click "Deploy", and your site should be live. 
 
+---
+
+## Netlify
+ > [!WARNING] Netlify Issues
+> As of writing this on January 21st, 2023 there are some issues with Netlify, and this button won't create a copy. If that happens you will get an error when trying to deply your site. If you get an error in Netliify when using this, there is a workaround for this step [available here](https://github.com/oleeskild/obsidian-digital-garden/issues/167#issuecomment-1399222123)
+
+### Blank garden
+To deploy your site to Netlify instead of Vercel, follow the steps in [[Getting Started/01 Getting started\|01 Getting started]], but instead of using the "Deploy to Vercel" button in step 3, click the button below.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
+
 ## Cloudflare
 
 > [!WARNING] Work in progress
