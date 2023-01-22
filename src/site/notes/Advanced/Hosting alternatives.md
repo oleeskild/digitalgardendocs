@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/advanced/hosting-alternatives/"}
 ---
 
-While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. Step by step instructions are yet to be written. 
+While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
 
 ## Self hosting
 If you want to host this on your own server, you can use the approach explained in the [following GitHub discussion](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
 
+---
+
 ## Vercel
-> [!WARNING] Partially supported
-> Search is currently not supported on Vercel 
 
 ### Blank garden
 To deploy your site to Vercel instead of Netlify, follow the steps in [[Getting Started/01 Getting started\|01 Getting started]], but instead of using the "Deploy to Netlify" button in step 3, click the button below.
