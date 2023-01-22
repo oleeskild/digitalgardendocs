@@ -12,7 +12,7 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
 
 ---
 
-3. You'll also need a Netlify account. You can sign up using your GitHub account [here](https://app.netlify.com/)
+3. You'll also need a Vercel account. You can sign up using your GitHub account [here](https://vercel.com/signup)
 
 ---
 
