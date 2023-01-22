@@ -60,7 +60,7 @@ It should look something like this:
 
 ---
 
-9. Go to your site's URL which you should find on [Netlify](https://app.netlify.com). If nothing shows up yet, wait a minute and refresh. Your note should now appear.
+9. Go to your site's URL which you should find on [Vercel](https://vercel.com/dashboard). If nothing shows up yet, wait a minute and refresh. Your note should now appear.
 
 ---
 
