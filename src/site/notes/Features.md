@@ -10,7 +10,7 @@ You can enable the following features in your digital garden, in the [[Getting S
 * Filetree navigation
 * Link preview
 * Search
-* Frontmatter tags
+* Tags
 
 Additionally the garden supports a variety of formatting and content types in your notes. 
 
