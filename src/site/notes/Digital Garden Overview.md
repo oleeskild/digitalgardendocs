@@ -37,8 +37,8 @@ This site is itself powered by the Digital Garden plugin.
 		<a href="https://ajy.co/" target="_blank">ajy.co</a>
 	</div>
 <div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1672992556/dgdocs/CleanShot_2023-01-06_at_09.09.06_2x.png"/>
-		<a href="https://topobon.utsob.me/" target="_blank">topobon</a>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1672992556/dgdocs/CleanShot_2023-02-05_at_20.18.45_2x"/>
+		<a href="https://hermitage.utsob.me/" target="_blank">Hermitage</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
@@ -49,8 +49,8 @@ This site is itself powered by the Digital Garden plugin.
 		<a href="https://razvan-andrei-surdu.eu/" target="_blank">Razvan Andrei Surdu</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/>
-		<a href="https://syleria.netlify.app/" target="_blank">Syleria</a>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2023-02-05_at_20.17.02_2x"/>
+		<a href="https://icewind.quest/" target="_blank">IceWind.Quest</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068358/dgdocs/CleanShot_2022-11-10_at_09.19.06_2x.png"/>
