@@ -62,3 +62,7 @@ Any css/scss files placed under `src/site/styles/user` will automatically link
 ### Caution
 
 Remember that, the paths for a given slot are always sorted by filename. Therefore, if order matters, you should name files such they maintain the alphabetical order.
+
+
+## Examples in the wild
+To get started and see a live example, take a look at GitHub user [uroybd](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user) 's garden, [topobon](https://topobon.utsob.me/) . He uses components to add a theme switcher and a disqus comment section among other things. You can take a look at how he's imlemented it [here](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
