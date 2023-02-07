@@ -11,6 +11,9 @@ const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setLiquidOptions({
+    dynamicPartials: true,
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -150,7 +153,7 @@ module.exports = function (eleventyConfig) {
         }
         const [fileLink, linkTitle] = p1.split("|");
 
-        let fileName = fileLink;
+        let fileName = fileLink.replaceAll("&amp;", "&");
         let header = "";
         let headerLinkPath = "";
         if (fileLink.includes("#")) {
