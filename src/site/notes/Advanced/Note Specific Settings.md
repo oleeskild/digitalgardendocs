@@ -57,3 +57,31 @@ dg-meta-tags:
 ```
 
 Read more about the [Open Graph Protocol](https://ogp.me/)
+
+---
+## Note Icons
+Each note can have an assosiated note icon. By default this is set by the 
+`dg-note-icon` property, but this can be changed in the [[Getting Started/04 Appearance Settings#Note Icon Settings\|note icon settings]]. 
+By default the plugin provides 4 options: `default`, `1`, `2`, and `3`. 
+
+You can easily change these by replacing any of the following icons with your own SVG icons in your repo:
+`src/site/img/default-note-icon.svg`
+`src/site/img/tree-1.svg`
+`src/site/img/tree-2.svg`
+`src/site/img/tree-3.svg`
+
+The provided icons looks like this:
+
+### Default
+
+![](https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/default-note-icon.svg)
+
+### 1
+![](https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/tree-1.svg)
+
+### 2
+![](https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/tree-2.svg)
+
+### 3
+
+![](https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/tree-3.svg)
