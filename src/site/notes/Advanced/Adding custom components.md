@@ -4,25 +4,52 @@
 
 Release 1.39.0 of the template introduced a new way to add custom components to your site. Previously, any customization done in the template would be overwritten whenever you [[Getting Started/06 Updating the template\|updated the template]], making it hard to maintain if you wanted the latest update.
 
-The template now has a concept of slots, where you can add any content you want. Be it Javascript, HTML or CSS. 
+The template now has the concept of slots, where you can add any content you want. Be it Javascript, HTML or CSS. 
 
-### How does it work
+## Available slots
 
-#### Namespaces
-
-These are the namespaces currently supported:
-
-1.  common
-2.  index
-3.  notes
+### Notes
+### Namespaces
+These are the namespaces currently supported for notes:
+* common
+	* Will be added on both the home page and all note pages
+* index
+	* Will be added on the home page
+* notes
+	* Will be added to alle note pages
 
 #### Slots
 
 These are the supported slots:
 
-1.  header
-2.  afterContent
-3.  footer
+* head
+	* Will be placed inside the html `<head>` tag
+* header
+	* Will be placed on top of the page, in the `<header>` tag, after tags and note title if that is enabled
+* beforeContent
+	* Will be placed just before the page content
+* afterContent
+	* Will be placed just after the page content
+* footer
+	* Will be placed in the footer of the page
+
+### Filetree
+#### Namespaces
+* filetree
+
+#### Slots
+* beforeTitle
+* afterTitle
+
+### Sidebar
+#### Namespaces
+* filetree
+
+#### Slots
+* top
+* bottom
+
+## How does it work?
 
 The files should be placed using the following format:
 
