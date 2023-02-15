@@ -64,12 +64,6 @@ Each note can have an assosiated note icon. By default this is set by the
 `dg-note-icon` property, but this can be changed in the [[Getting Started/04 Appearance Settings#Note Icon Settings\|note icon settings]]. 
 By default the plugin provides 4 options: `default`, `1`, `2`, and `3`. 
 
-You can easily change these by replacing any of the following icons with your own SVG icons in your repo:
-`src/site/img/default-note-icon.svg`
-`src/site/img/tree-1.svg`
-`src/site/img/tree-2.svg`
-`src/site/img/tree-3.svg`
-
 The provided icons looks like this:
 
 ### Default
@@ -85,3 +79,27 @@ The provided icons looks like this:
 ### 3
 
 ![](https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/tree-3.svg)
+
+### Changing and adding icons
+You can change and add your own icons the following way:
+
+The ideal way to change the default icons is by adding the svgs in the img folder and setting the appropriate css vars in body in a [[Advanced/Adding custom components#Dynamic CSS/SCSS\|custom css file]]:
+
+```css
+body {
+  --note-icon-1: url(/img/your-custom.svg);
+  --note-icon-2: url(/img/tree-2.svg);
+  --note-icon-3: url(/img/tree-3.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);}
+}
+```
+
+To add new icons, let's say, for 'stone', add a snippet like this (and add the relevant svg) in a [[Advanced/Adding custom components#Dynamic CSS/SCSS\|custom css file]]:
+
+```css
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
+body.filetree-note-icon .filename[data-note-icon="stone"]::before,
+body.links-note-icon .internal-link[data-note-icon="stone"]::before {
+  background-image: url(/img/stone.svg);
+}
+```
