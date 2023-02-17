@@ -96,7 +96,7 @@ will result in
 ---
 
 ### Page specific styling
-Currently the plugin does not support setting custom styling using the [Style Setting Plugin](https://github.com/mgmeyers/obsidian-style-settings). But if you want some custom styling on some pages you can add an inline style tag at the bottom of the note. For example the [[Digital Garden Overview\|Digital Garden Overview]] page has the following text in the bottom of the note, to align all headers in the center:
+Currently the plugin does not support setting custom styling using the [Style Setting Plugin](https://github.com/mgmeyers/obsidian-style-settings). But if you want some custom styling on some pages you can add an inline style tag at the bottom of the note. For example will the following text in the bottom of the note, align all headers in the center:
 ![CleanShot 2022-11-13 at 13.36.19@2x.png](/img/user/img/CleanShot%202022-11-13%20at%2013.36.19@2x.png)
 It's a hacky workaround, but it works for simple things like custom styling to your home page. 
 
