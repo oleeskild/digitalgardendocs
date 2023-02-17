@@ -106,9 +106,7 @@ It's a hacky workaround, but it works for simple things like custom styling to y
 The plugin in it's current form is not optimized for image-heavy sites. A couple of images in your notes should be just fine, but if you embed 10s or 100s of large image files in one note, you will run into some performance issues. 
 The note will load slowly, and you can get an error from GitHub when trying to publish, due to the size of the note.
 
-The reason for this is that the plugin simply encodes the entire image and embeds it right into your note. This means that browsers cannot first load the site, then asynchronously load the images from a CDN after the page is finished loading. 
-
-However, there is a workaround. If your notes has a lot of images, upload them to a  cloud storage and embed them with the `![image text](https://image.url)` syntax in your notes. You should then see a significant speed boost. 
+There is a workaround. If your notes has a lot of images, upload them to a  cloud storage and embed them with the `![image text](https://image.url)` syntax in your notes. You should then see a significant speed boost. 
 
 This can even be automated by using a plugin like the [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin), which will automatically upload pasted images to imgur and embed them in your note. 
 
