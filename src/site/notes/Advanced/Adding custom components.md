@@ -82,13 +82,54 @@ Say, you have a comment system implemented in a file (e.g. `comment.njk`) and y
 src/site/_includes/components/user/notes/footer/comment.njk
 ```
 
-### Dynamic CSS/SCSS
+## Custom user data
+If you want to compute some data in any of your custom `*.njk` files, you can modify the `src/helpers/userUtils.js` file. If you have the latest version of the template, it should look like this:
+```javascript
+// Put your computations here.
+
+function userComputed(data) {
+  return {};
+}
+
+exports.userComputed = userComputed;
+```
+
+Any properties added to the object return in the userComputed function, will be available to use in your `*.njk` files. As an example, the following `userUtils.js` file:
+```javascript
+// Put your computations here.
+
+function userComputed(data) {
+  return {
+	  city: 'Bergen',
+	  weather: ["rain", "rain", "rain"]
+  };
+}
+
+exports.userComputed = userComputed;
+```
+
+..should make the city and weather property availble in your templates like so:
+```nunjucks
+<h1>{{userComputed.city}}</h1>
+<ul>
+{% for weather in userComputed.weather %}
+	<li>{{weather}}</li>
+{%endfor%}
+</ul>
+```
+
+## Dynamic CSS/SCSS
 
 Any css/scss files placed under `src/site/styles/user` will automatically linked into the head right after the `custom-styles.scss`.
 
-### Caution
+### Available css variables
+Not all themes looks good out of the box. The template makes some css variables available to customize various css properties to customize it to your need.
+Currently the available css variables are
+`--graph-main`
+`--graph-muted`
 
-Remember that, the paths for a given slot are always sorted by filename. Therefore, if order matters, you should name files such they maintain the alphabetical order.
+> [!info] File order
+> Remember that, the paths for a given slot are always sorted by filename. Therefore, if order matters, you should name files such they maintain the alphabetical order.
 
 
 ## Examples in the wild
