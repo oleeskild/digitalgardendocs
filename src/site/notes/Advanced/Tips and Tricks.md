@@ -110,3 +110,7 @@ There is a workaround. If your notes has a lot of images, upload them to a  clou
 
 This can even be automated by using a plugin like the [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin), which will automatically upload pasted images to imgur and embed them in your note. 
 
+---
+
+### Adding analytics to Vercel
+If you are using Vercel to host your site, you can add basic analytics to your site by following the instructions described [here](https://github.com/oleeskild/obsidian-digital-garden/discussions/195)
