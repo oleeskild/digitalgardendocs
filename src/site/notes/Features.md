@@ -60,6 +60,7 @@ list from "Advanced"
 - [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/CSS Customization\|CSS Customization]]
 
 ---
 
