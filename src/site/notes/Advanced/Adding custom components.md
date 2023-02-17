@@ -120,13 +120,19 @@ exports.userComputed = userComputed;
 
 ## Dynamic CSS/SCSS
 
-Any css/scss files placed under `src/site/styles/user` will automatically linked into the head right after the `custom-styles.scss`.
 
-### Available css variables
-Not all themes looks good out of the box. The template makes some css variables available to customize various css properties to customize it to your need.
-Currently the available css variables are
-`--graph-main`
-`--graph-muted`
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Dynamic CSS/SCSS
+
+Any css/scss files placed under `src/site/styles/user` will automatically be linked into the head right after all other styling. Meaning that the styling added here will take presedence over everything else. 
+
+
+</div></div>
+
+
 
 > [!info] File order
 > Remember that, the paths for a given slot are always sorted by filename. Therefore, if order matters, you should name files such they maintain the alphabetical order.
