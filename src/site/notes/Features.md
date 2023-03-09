@@ -51,16 +51,17 @@ let a = 5;
 list from "Advanced"
 ```
 
+- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Adding custom components\|Adding custom components]]
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Content Customization\|Content Customization]]
+- [[Advanced/Hosting alternatives\|Hosting alternatives]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
-- [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
-- [[Advanced/CSS Customization\|CSS Customization]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 
 ---
 
