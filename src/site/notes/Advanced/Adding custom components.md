@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/advanced/adding-custom-components/"}
 ---
 
+
+> [!FAQ] Configuring build pipelines
+> For changing the markdown rendering or build pipeline see [[Advanced/Configure build pipeline\|Configure build pipeline]]
+
+
 Release 1.39.0 of the template introduced a new way to add custom components to your site. Previously, any customization done in the template would be overwritten whenever you [[Getting Started/06 Updating the template\|updated the template]], making it hard to maintain if you wanted the latest update.
 
 The template now has the concept of slots, where you can add any content you want. Be it Javascript, HTML or CSS. 
