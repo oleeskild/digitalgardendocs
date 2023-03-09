@@ -44,10 +44,10 @@ All the valid values for formatting the dates is available in the [luxon documen
 ### Created and updated values
 The date values can be set in two ways. Either be set as a front-matter value in your note, with the key you specify in the settings, like this:
 
-![CleanShot 2023-03-09 at 15.09.43.png](/img/user/CleanShot%202023-03-09%20at%2015.09.43.png)
+![CleanShot 2023-03-09 at 15.09.43.png](/img/user/img/CleanShot%202023-03-09%20at%2015.09.43.png)
 
 Or, of you want to use the creation and modification date of the file itself, leave these fields blanks, like this:
-![CleanShot 2023-03-09 at 15.09.54.png](/img/user/CleanShot%202023-03-09%20at%2015.09.54.png)
+![CleanShot 2023-03-09 at 15.09.54.png](/img/user/img/CleanShot%202023-03-09%20at%2015.09.54.png)
 
 ## Note Icon Settings
 
