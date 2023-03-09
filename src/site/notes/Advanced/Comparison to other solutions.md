@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/comparison-to-other-solutions/"}
+{"dg-publish":true,"permalink":"/advanced/comparison-to-other-solutions/","created":"2022-11-10T10:13:31.101+01:00","updated":"2022-11-21T15:27:31.692+01:00"}
 ---
 
 ## Pros
