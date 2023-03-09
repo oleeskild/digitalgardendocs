@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/"}
+{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","created":"2022-11-09T21:23:01.974+01:00","updated":"2023-01-22T23:40:50.118+01:00"}
 ---
 
 While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
