@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/fine-grained-access-token/"}
+{"dg-publish":true,"permalink":"/advanced/fine-grained-access-token/","created":"2022-12-15T22:12:50.110+01:00","updated":"2023-01-10T23:02:42.487+01:00"}
 ---
 
 Recently GitHub launched a more secure way to create an access token. Previously you would need to create a token that had access to all your repos. This isn't very secure, as a compromised token will give access to all of your repos. 
