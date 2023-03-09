@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-09T15:07:57.437+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-09T15:21:41.781+01:00"}
 ---
 
 The appearance settings can be accessed in the settings menu: 
@@ -32,7 +32,22 @@ To do this, put an SVG file somewhere in your vault, and put the path to the SVG
 Remember to click the "Apply settings to site" button after changing it. 
 ![CleanShot 2022-11-13 at 13.57.48@2x.png](/img/user/img/CleanShot%202022-11-13%20at%2013.57.48@2x.png)
 
+## Timestamps Settings
+Specify whether you want update and/or created time for your notes.
 
+### Timestamp format
+Specify in what format you want the time to be displayed. By default it will be shown like this: `Jan 01, 2020 1:30 PM`. 
+If you want it to instead be displayed in a 24h format, you can use: `MMM dd, yyyy HH:mm`.
+
+All the valid values for formatting the dates is available in the [luxon documentation](https://github.com/moment/luxon/blob/master/docs/formatting.md#table-of-tokens)
+
+### Created and updated values
+The date values can be set in two ways. Either be set as a front-matter value in your note, with the key you specify in the settings, like this:
+
+![CleanShot 2023-03-09 at 15.09.43.png](/img/user/CleanShot%202023-03-09%20at%2015.09.43.png)
+
+Or, of you want to use the creation and modification date of the file itself, leave these fields blanks, like this:
+![CleanShot 2023-03-09 at 15.09.54.png](/img/user/CleanShot%202023-03-09%20at%2015.09.54.png)
 
 ## Note Icon Settings
 
