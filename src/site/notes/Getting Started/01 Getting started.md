@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/01-getting-started/"}
+{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-01-22T23:44:09.985+01:00"}
 ---
 
 The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
