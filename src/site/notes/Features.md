@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2023-01-18T15:41:10.107+01:00"}
+{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2023-03-09T18:15:39.010+01:00"}
 ---
 
 
 You can enable the following features in your digital garden, in the [[Getting Started/03 Note settings\|note settings]]:
 * Local Graph
+* Global Graph
 * Backlinks
 * Table Of Content
 * Filetree navigation
