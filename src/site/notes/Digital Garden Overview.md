@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-overview/","tags":["gardenEntry"],"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/digital-garden-overview/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-02-07T13:14:24.981+01:00"}
 ---
 
 
