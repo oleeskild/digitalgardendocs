@@ -37,7 +37,7 @@ Remember to click the "Apply settings to site" button after changing it.
 Here you can specify if you want to show note icons in the note title, in the filetree and on internal links. Each note can have its own note icon. The plugin provides 4 icons by default. More details on that is available in [[Advanced/Note Specific Settings#Note Icons\|Note Specific Settings#Note Icons]].
 
 Remember to click the "Apply settings to site" button after changing it. 
-![CleanShot 2023-02-14 at 18.18.57@2x.png](/img/user/CleanShot%202023-02-14%20at%2018.18.57@2x.png)
+![CleanShot 2023-02-14 at 18.18.57@2x.png](/img/user/img/CleanShot%202023-02-14%20at%2018.18.57@2x.png)
 
 
 [[Getting Started/03 Note settings\|< Prev]] | [[Getting Started/05 Other Settings\|Next: Other Settings >]]
