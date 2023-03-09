@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/css-customization/"}
+{"dg-publish":true,"permalink":"/advanced/css-customization/","created":"2023-02-17T17:01:23.938+01:00","updated":"2023-02-17T17:16:56.750+01:00"}
 ---
 
 ## Dynamic CSS/SCSS
