@@ -66,6 +66,12 @@ The components are written in [Nunjuck](https://mozilla.github.io/nunjucks/), a 
 
 The important thing is that the fileextension used is "njk".
 
+If you don't want to inline your scripts, but have them in a separate `js` file, you can put them in the `src/site/scripts` folder. They can then be referenced like this in your `njk` file:
+
+```html
+<script src="/scripts/your-script.js" />
+```
+
 ### Examples
 
 For example to add common content in every pages header right after the title and tags the file should be placed in the following directory:
@@ -109,7 +115,7 @@ exports.userComputed = userComputed;
 ```
 
 ..should make the city and weather property availble in your templates like so:
-![CleanShot 2023-02-17 at 17.19.14.png](/img/user/CleanShot%202023-02-17%20at%2017.19.14.png)
+![CleanShot 2023-02-17 at 17.19.14.png](/img/user/img/CleanShot%202023-02-17%20at%2017.19.14.png)
 ## Dynamic CSS/SCSS
 
 
