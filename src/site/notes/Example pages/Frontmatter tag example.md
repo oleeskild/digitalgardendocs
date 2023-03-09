@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/example-pages/frontmatter-tag-example/","tags":["exampletag"]}
+{"dg-publish":true,"permalink":"/example-pages/frontmatter-tag-example/","tags":["exampletag"],"created":"2023-01-09T19:17:09.171+01:00","updated":"2023-01-09T19:26:14.699+01:00"}
 ---
 
 
