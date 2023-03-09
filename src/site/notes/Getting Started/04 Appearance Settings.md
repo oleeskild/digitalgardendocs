@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-09T15:07:57.437+01:00"}
 ---
 
 The appearance settings can be accessed in the settings menu: 
@@ -31,6 +31,8 @@ To do this, put an SVG file somewhere in your vault, and put the path to the SVG
 
 Remember to click the "Apply settings to site" button after changing it. 
 ![CleanShot 2022-11-13 at 13.57.48@2x.png](/img/user/img/CleanShot%202022-11-13%20at%2013.57.48@2x.png)
+
+
 
 ## Note Icon Settings
 
