@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/adding-custom-components/"}
+{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","created":"2023-02-07T13:09:11.332+01:00","updated":"2023-03-09T15:06:54.368+01:00"}
 ---
 
 
