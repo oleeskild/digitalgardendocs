@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/03-note-settings/"}
+{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-01-09T18:31:27.750+01:00"}
 ---
 
 By default the website is very simple, simply showing your note content, and a navbar at the top. But the plugin also support features like backlinks, local graph and search. 
