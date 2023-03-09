@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/configure-build-pipeline/"}
+{"dg-publish":true,"permalink":"/advanced/configure-build-pipeline/","created":"2023-03-09T14:58:29.563+01:00","updated":"2023-03-09T15:03:54.208+01:00"}
 ---
 
 The digital garden uses 11ty when building the site, and markdown-it for rendering markdown to html. 
