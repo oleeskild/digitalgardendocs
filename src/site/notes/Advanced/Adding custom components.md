@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","created":"2023-02-07T13:09:11.332+01:00","updated":"2023-03-09T15:06:54.368+01:00"}
+{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","created":"2023-02-07T13:09:11.332+01:00","updated":"2023-03-09T15:23:44.439+01:00"}
 ---
 
 
@@ -84,8 +84,6 @@ For example to add common content in every pages header right after the title an
 ```
 src/site/_includes/components/user/common/header/
 ```
-
-Or,
 
 Say, you have a comment system implemented in a file (e.g. `comment.njk`) and you want to use that only in notes pages, put it in the following path:
 
