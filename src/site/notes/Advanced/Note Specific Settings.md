@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-02-15T09:00:18.907+01:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-16T21:12:31.177+01:00"}
 ---
 
 ## Title
@@ -32,6 +32,17 @@ The permalinks can be an arbitrary level of folders deep, such as:
 ```
 ---
 dg-permalink: "category/2022/mynote/"
+---
+```
+
+---
+
+## Hide file from file tree
+If you want to hide a note from the filetree, you can do so by setting dg-hide to true.
+
+```
+---
+dg-hide: true
 ---
 ```
 
