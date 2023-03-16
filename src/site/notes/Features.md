@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2023-03-09T18:15:39.010+01:00"}
+{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2023-03-16T22:43:04.182+01:00"}
 ---
 
 
@@ -52,17 +52,17 @@ let a = 5;
 list from "Advanced"
 ```
 
-- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Adding custom components\|Adding custom components]]
-- [[Advanced/Content Customization\|Content Customization]]
-- [[Advanced/Hosting alternatives\|Hosting alternatives]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
+- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
+- [[Advanced/Hosting alternatives\|Hosting alternatives]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
-- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 
 ---
 
@@ -325,6 +325,12 @@ There is a footnote here [^1]
 The site automatically generates a sitemap.xml file, available at `/sitemap.xml` on your site. This helps search engines properly index your site, making it more discoverable. For the sitemap to be properly formatted with the full URL for all your pages, the plugin needs to know the base URL of your site. By adding your URL to the plugin settings, the sitemap should automatically be generated using that value.
 
 ![CleanShot 2022-12-15 at 22.00.24@2x.png](/img/user/img/CleanShot%202022-12-15%20at%2022.00.24@2x.png)
+
+---
+
+## Atom/RSS feed
+The site automatically generates an Atom/RSS feed available at `/feed.xml` on your site. In order for this to be generated you need to add your Base URL in the settings, like in the image above. 
+For the dates to work properly, you need to enable the [[Getting Started/04 Appearance Settings#Timestamps Settings\|Show updated timestamp]] setting under the plugin's Appearance settings. If this is not enabled, the feed will use the last date the site was built, which in practice means the last date you last published anything to the site. 
 
 ---
 
