@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-16T21:12:31.177+01:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-16T21:13:17.309+01:00"}
 ---
 
 ## Title
@@ -110,7 +110,8 @@ To add new icons, let's say, for 'stone', add a snippet like this (and add the r
 ```css
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
 body.filetree-note-icon .filename[data-note-icon="stone"]::before,
-body.links-note-icon .internal-link[data-note-icon="stone"]::before {
+body.links-note-icon .internal-link[data-note-icon="stone"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
   background-image: url(/img/stone.svg);
 }
 ```
