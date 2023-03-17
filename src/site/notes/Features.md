@@ -53,9 +53,9 @@ list from "Advanced"
 ```
 
 - [[Advanced/Adding custom components\|Adding custom components]]
-- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Configure build pipeline\|Configure build pipeline]]
+- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
