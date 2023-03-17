@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-09T15:21:41.781+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-17T16:27:39.981+01:00"}
 ---
 
 The appearance settings can be accessed in the settings menu: 
@@ -31,6 +31,11 @@ To do this, put an SVG file somewhere in your vault, and put the path to the SVG
 
 Remember to click the "Apply settings to site" button after changing it. 
 ![CleanShot 2022-11-13 at 13.57.48@2x.png](/img/user/img/CleanShot%202022-11-13%20at%2013.57.48@2x.png)
+
+## Style Settings plugin
+If you have enabled and applied any custom settings to your theme in Obsidian, using the [Style Settings Plugin](https://github.com/mgmeyers/obsidian-style-settings), a Style Setting Plugin setting should appear at the top of the appearance settings. Clicking the "Apply" button should add your currently applied style settings to your site.
+
+![CleanShot 2023-03-17 at 16.26.34.png](/img/user/img/CleanShot%202023-03-17%20at%2016.26.34.png)
 
 ## Timestamps Settings
 Specify whether you want update and/or created time for your notes.
