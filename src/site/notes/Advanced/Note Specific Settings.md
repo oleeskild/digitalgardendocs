@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-16T21:13:17.309+01:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-26T13:20:46.280+02:00"}
 ---
 
 ## Title
@@ -37,12 +37,34 @@ dg-permalink: "category/2022/mynote/"
 
 ---
 
+## Pinning notes to filetree
+If you want certain notes to be at the top of the folder its in, you can use the dg-pinned attribute. Setting this to true will make the note be on top of the folder it is currently in
+
+```
+---
+dg-pinned: true
+---
+```
+
+---
+
 ## Hide file from file tree
 If you want to hide a note from the filetree, you can do so by setting dg-hide to true.
 
 ```
 ---
 dg-hide: true
+---
+```
+
+---
+
+## Hide note from graph
+If you want to hide a note from the graph view, you can do so by setting dg-hide to true.
+
+```
+---
+dg-hide-in-graph: true
 ---
 ```
 
