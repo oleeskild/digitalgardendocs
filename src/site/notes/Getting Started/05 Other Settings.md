@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-03-28T11:11:36.107+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-03-28T11:20:51.015+02:00"}
 ---
 
 
@@ -12,6 +12,8 @@ You can disable this by turning this setting off.
 
 
 ![CleanShot 2022-12-18 at 13.09.33@2x.png](/img/user/img/CleanShot%202022-12-18%20at%2013.09.33@2x.png)
+
+---
 
 ## Rewrite Paths
 If you want your filepaths in the garden to differ from the vault path, you can add rewrite rules in the "Path Rewrite Rules" section. If, let's say, I want to change the Getting Started folder to instead be named "Quick Start" in the garden it would look like this:
