@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-26T13:20:46.280+02:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-28T11:13:15.750+02:00"}
 ---
 
 ## Title
@@ -34,6 +34,19 @@ The permalinks can be an arbitrary level of folders deep, such as:
 dg-permalink: "category/2022/mynote/"
 ---
 ```
+
+---
+
+### File path
+If you want your note to appear in a different file structure than what you have in your vault, you can use the dg-path attribute, like so:
+
+```
+---
+dg-path: "Advanced/Features.md"
+---
+```
+
+More details about this is available in [[Getting Started/05 Other Settings#Rewrite path for single note.\|05 Other Settings#Rewrite path for single note.]]
 
 ---
 
