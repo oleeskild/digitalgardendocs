@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-01-22T23:44:09.985+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-04-25T18:31:03.734+02:00"}
 ---
 
 The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
@@ -33,7 +33,11 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
 
 6. Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo with your notes which you created in step 3, and lastly paste in your token. 
    ![CleanShot 2022-11-09 at 21.08.36@2x.png](/img/user/img/CleanShot%202022-11-09%20at%2021.08.36@2x.png)
+
    
+> [!NOTE] Appearance change
+> In a recent update the appearance of the setting menu have changed a bit to make it easier to navigate. The screenshots used here are a bit outdated, but the setting names shouldn't have changed much.
+
    ---
    
 7. Now, let's publish your first note! Create a new note in Obsidian. And add this to the top of your file
