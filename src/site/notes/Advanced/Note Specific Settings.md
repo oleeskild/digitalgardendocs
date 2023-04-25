@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-03-28T11:13:15.750+02:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-04-25T18:25:12.483+02:00"}
 ---
 
 ## Title
@@ -105,6 +105,20 @@ dg-meta-tags:
 Read more about the [Open Graph Protocol](https://ogp.me/)
 
 ---
+
+## Body classes
+You can set custom classes to the body tag for your published notes, by using the 'dg-content-classes' attribute.
+
+```
+dg-content-classes: cards
+```
+
+This will add a "cards" class to your note, allowing you to customize each note with specific classes. 
+
+You can also change the frontmatter key used to specify this in [[Getting Started/04 Appearance Settings#CSS settings\|the appearance settings]]. So, for example, if you are using [Minimal Theme's cssClasses](https://github.com/kepano/obsidian-minimal#css-helper-classes) you can change the key to 'cssClasses', meaning you don't have to specify the classes twice.
+
+---
+
 ## Note Icons
 Each note can have an assosiated note icon. By default this is set by the 
 `dg-note-icon` property, but this can be changed in the [[Getting Started/04 Appearance Settings#Note Icon Settings\|note icon settings]]. 
