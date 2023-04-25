@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-03-17T16:27:39.981+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-04-25T18:19:56.290+02:00"}
 ---
 
 The appearance settings can be accessed in the settings menu: 
@@ -53,6 +53,12 @@ The date values can be set in two ways. Either be set as a front-matter value in
 
 Or, of you want to use the creation and modification date of the file itself, leave these fields blanks, like this:
 ![CleanShot 2023-03-09 at 15.09.54.png](/img/user/img/CleanShot%202023-03-09%20at%2015.09.54.png)
+
+## CSS settings
+
+Specify which key you want to use in frontmatter to specify what [[Advanced/Note Specific Settings#Body classes\|body classes]] a note should have in the garden:
+
+![CleanShot 2023-04-25 at 18.18.10.png](/img/user/CleanShot%202023-04-25%20at%2018.18.10.png)
 
 ## Note Icon Settings
 
