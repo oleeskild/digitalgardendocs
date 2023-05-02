@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-04-25T18:25:12.483+02:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-05-02T17:09:48.663+02:00"}
 ---
 
 ## Title
@@ -84,10 +84,10 @@ dg-hide-in-graph: true
 ---
 
 ## Metatags
-Setting metatags for a note can be done by adding a dg-meta-tags attribute like so:
+Setting metatags for a note can be done by adding a dg-metatags attribute like so:
 
 ```
-dg-meta-tags:
+dg-metatags:
  description: "some description"
  "og:image": "https://example.com/someimage.png"
 ```
@@ -97,7 +97,7 @@ Note that there is a single space before the "description" field, **not** a tab.
 This feature can be used if you want custom titles and images when sharing links in social media. Using the example below will add a title and an image that will be used when sharing the link in social media. 
 
 ```
-dg-meta-tags:
+dg-metatags:
  "og:title": "Title Appearing on Social Media Site"
  "og:image": "https://example.com/someimage.png"
 ```
