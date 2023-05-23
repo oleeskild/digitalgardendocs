@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-03-28T11:20:51.015+02:00"}
+{"dg-publish":true,"dg-path":"Quick Start/05 Other Settings.md","permalink":"/quick-start/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-05-23T22:58:33.266+02:00"}
 ---
 
 
@@ -17,8 +17,9 @@ You can disable this by turning this setting off.
 
 ## Rewrite Paths
 If you want your filepaths in the garden to differ from the vault path, you can add rewrite rules in the "Path Rewrite Rules" section. If, let's say, I want to change the Getting Started folder to instead be named "Quick Start" in the garden it would look like this:
+![CleanShot 2023-05-23 at 22.47.43@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.47.43@2x.png)
 
-![CleanShot 2023-03-28 at 11.02.40@2x.png](/img/user/CleanShot%202023-03-28%20at%2011.02.40@2x.png)
+![CleanShot 2023-05-23 at 22.48.16@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.48.16@2x.png)
 
 After adding this, all affected notes should show up as changed in the publication center, allowing you to update them. 
 
@@ -31,5 +32,25 @@ The dg-path property needs the entire filepath you want. For example, if I wante
 dg-path: "Advanced/Features.md"
 ---
 ```
+
+---
+## Custom filters
+If you want any of your content to be modified before publishing the note, you can add a filter.
+
+![CleanShot 2023-05-23 at 22.50.21@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.50.21@2x.png)
+
+For example say you want to hide text that is inside a specific pattern:
+```
+This is some normal text.
+
+::: hidden
+This is some private text that should not be published.
+:::
+```
+
+You could then add the following filter.
+
+![CleanShot 2023-05-23 at 22.53.24@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.53.24@2x.png)
+It also supports Regex groups, meaning you can use $1, $2 etc in the replacement string to insert the first and second regex group and so on. 
 
  [[Getting Started/04 Appearance Settings\|< Prev]] | [[Getting Started/06 Updating the template\|Next: Updating the template >]]
