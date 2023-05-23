@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","created":"2022-11-09T21:23:01.974+01:00","updated":"2023-01-22T23:40:50.118+01:00"}
+{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","created":"2022-11-09T21:23:01.974+01:00","updated":"2023-05-23T22:45:59.787+02:00"}
 ---
 
-While the [[Getting Started/01 Getting started\|01 Getting started]] uses Netlify as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
+While the [[Getting Started/01 Getting started\|01 Getting started]] uses Vercel as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
 
 ## Self hosting
 If you want to host this on your own server, you can use the approach explained in the [following GitHub discussion](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
@@ -31,27 +31,12 @@ Click "Deploy", and your site should be live.
 ---
 
 ## Netlify
- > [!WARNING] Netlify Issues
-> As of writing this on January 21st, 2023 there are some issues with Netlify, and this button won't create a copy. If that happens you will get an error when trying to deply your site. If you get an error in Netliify when using this, there is a workaround for this step [available here](https://github.com/oleeskild/obsidian-digital-garden/issues/167#issuecomment-1399222123)
 
 ### Blank garden
 To deploy your site to Netlify instead of Vercel, follow the steps in [[Getting Started/01 Getting started\|01 Getting started]], but instead of using the "Deploy to Vercel" button in step 3, click the button below.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
 
-## Cloudflare
-
-> [!WARNING] Work in progress
-> 🔧
-
-## Deno
-
-> [!WARNING] Work in progress
-> 🔧
-
-
-## Github Pages
-
-> [!WARNING] Work in progress
-> 🔧
-
+## Others
+The garden should work just fine with all static site hosting providers such as CloudFlare, Deno, Github Pages etc. Start by going to the [digitalgarden repo](https://github.com/oleeskild/digitalgarden) and clicking the Use This Template > Create a new repository. ![CleanShot 2023-05-23 at 22.43.25@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.43.25@2x.png)
+You should then be able to create an account with your hosting provider of choice and connect it to your newly created repository. If it asking install command, output directory or build command, use those visible in the picture from Vercel above. 
