@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quick Start/05 Other Settings.md","permalink":"/quick-start/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-05-23T22:58:33.266+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-05-23T22:58:33.266+02:00"}
 ---
 
 
