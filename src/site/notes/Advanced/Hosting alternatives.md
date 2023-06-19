@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","created":"2022-11-09T21:23:01.974+01:00","updated":"2023-05-23T22:45:59.787+02:00"}
+{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","created":"2022-11-09T21:23:01.974+01:00","updated":"2023-06-19T13:01:24.117+02:00"}
 ---
 
 While the [[Getting Started/01 Getting started\|01 Getting started]] uses Vercel as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
@@ -39,4 +39,4 @@ To deploy your site to Netlify instead of Vercel, follow the steps in [[Getting 
 
 ## Others
 The garden should work just fine with all static site hosting providers such as CloudFlare, Deno, Github Pages etc. Start by going to the [digitalgarden repo](https://github.com/oleeskild/digitalgarden) and clicking the Use This Template > Create a new repository. ![CleanShot 2023-05-23 at 22.43.25@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.43.25@2x.png)
-You should then be able to create an account with your hosting provider of choice and connect it to your newly created repository. If it asking install command, output directory or build command, use those visible in the picture from Vercel above. 
+You should then be able to create an account with your hosting provider of choice and connect it to your newly created repository. If the setups asks for an install command, output directory or build command, use those that are visible in the picture from Vercel above. 
