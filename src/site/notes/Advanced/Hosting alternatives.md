@@ -38,5 +38,5 @@ To deploy your site to Netlify instead of Vercel, follow the steps in [[Getting 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
 
 ## Others
-The garden should work just fine with all static site hosting providers such as CloudFlare, Deno, Github Pages etc. Start by going to the [digitalgarden repo](https://github.com/oleeskild/digitalgarden) and clicking the Use This Template > Create a new repository. ![CleanShot 2023-05-23 at 22.43.25@2x.png](/img/user/CleanShot%202023-05-23%20at%2022.43.25@2x.png)
+The garden should work just fine with all static site hosting providers such as CloudFlare, Deno, Github Pages etc. Start by going to the [digitalgarden repo](https://github.com/oleeskild/digitalgarden) and clicking the Use This Template > Create a new repository. ![CleanShot 2023-05-23 at 22.43.25@2x.png](/img/user/img/CleanShot%202023-05-23%20at%2022.43.25@2x.png)
 You should then be able to create an account with your hosting provider of choice and connect it to your newly created repository. If the setups asks for an install command, output directory or build command, use those that are visible in the picture from Vercel above. 
