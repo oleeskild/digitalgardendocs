@@ -58,7 +58,7 @@ Or, of you want to use the creation and modification date of the file itself, le
 
 Specify which key you want to use in frontmatter to specify what [[Advanced/Note Specific Settings#Body classes\|body classes]] a note should have in the garden:
 
-![CleanShot 2023-04-25 at 18.18.10.png](/img/user/CleanShot%202023-04-25%20at%2018.18.10.png)
+![CleanShot 2023-04-25 at 18.18.10.png](/img/user/img/CleanShot%202023-04-25%20at%2018.18.10.png)
 
 ## Note Icon Settings
 
