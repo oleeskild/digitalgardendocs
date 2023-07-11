@@ -38,6 +38,7 @@ module.exports = function (eleventyConfig) {
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
+    linkify: true,
   })
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
@@ -248,7 +249,7 @@ module.exports = function (eleventyConfig) {
         if(deadLink){
           return `<a class="internal-link is-unresolved" href="/404">${title}</a>`;
         }
-        return `<a class="internal-link data-note-icon="${noteIcon}" href="${permalink}${headerLinkPath}">${title}</a>`;
+        return `<a class="internal-link" data-note-icon="${noteIcon}" href="${permalink}${headerLinkPath}">${title}</a>`;
       })
     );
   });
@@ -342,47 +343,60 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
+      imageTag.tagName = "picture";
+      let html = `<source
+      media="(max-width:480px)"
+      srcset="${meta.webp[0].url}"
+      type="image/webp"
+      />
+      <source
+      media="(max-width:480px)"
+      srcset="${meta.jpeg[0].url}"
+      />
+      `
+      if (meta.webp && meta.webp[1] && meta.webp[1].url) {
+        html += `<source
+        media="(max-width:1920px)"
+        srcset="${meta.webp[1].url}"
+        type="image/webp"
+        />`
+      }
+      if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
+        html += `<source
+        media="(max-width:1920px)"
+        srcset="${meta.jpeg[1].url}"
+        />`
+      }
+      html += `<img
+      class="${cls.toString()}"
+      src="${src}"
+      alt="${alt}"
+      width="${width}"
+      />`;
+      imageTag.innerHTML = html;
+    }
+    
+
   eleventyConfig.addTransform("picture", function (str) {
     const parsed = parse(str);
-    for (const t of parsed.querySelectorAll(".cm-s-obsidian img")) {
-      const src = t.getAttribute("src");
+    for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
+      const src = imageTag.getAttribute("src");
       if (src && src.startsWith("/") && !src.endsWith(".svg")) {
-        const cls = t.classList;
-        const alt = t.getAttribute("alt");
+        const cls = imageTag.classList.value;
+        const alt = imageTag.getAttribute("alt");
+        const width = imageTag.getAttribute("width") || '';
 
         try {
           const meta = transformImage(
-            "./src/site" + decodeURI(t.getAttribute("src")),
+            "./src/site" + decodeURI(imageTag.getAttribute("src")),
             cls.toString(),
             alt,
             ["(max-width: 480px)", "(max-width: 1024px)"]
           );
 
           if (meta) {
-            t.tagName = "picture";
-            t.innerHTML = `<source
-      media="(max-width:480px)"
-      srcset="${meta.webp[0].url}"
-      type="image/webp"
-    />
-    <source
-      media="(max-width:480px)"
-      srcset="${meta.jpeg[0].url}"
-    />
-    <source
-      media="(max-width:1920px)"
-      srcset="${meta.webp[1].url}"
-      type="image/webp"
-    />
-    <source
-      media="(max-width:1920px)"
-      srcset="${meta.jpeg[1].url}"
-    />
-    <img
-      class="${cls.toString()}"
-      src="${src}"
-      alt="${alt}"
-    />`;
+            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
           }
         } catch {
           // Make it fault tolarent.
