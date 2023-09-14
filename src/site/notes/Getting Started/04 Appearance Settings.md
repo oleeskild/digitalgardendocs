@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-04-25T18:19:56.290+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-09-14T09:25:45.265+02:00"}
 ---
 
 The appearance settings can be accessed in the settings menu: 
@@ -15,8 +15,6 @@ All community themes are supported. Some might look better than others. Themes c
 You can also select if you want the dark or ligth theme. If the theme doesn't support the base theme you've chosen, you will get a notification when applying the setting.
 
 When you're done choosing a theme, click the "Apply settings to site" to make it go live. 
-
-[Style settings](https://github.com/mgmeyers/obsidian-style-settings) are unfortunately not yet supported. This is on the development roadmap and will be added sometime in the future. 
 
 ## Sitename
 You can set the name of your site in the "Sitename" setting. This will be displayed in the top navbar of your site.
