@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/example-pages/simple-page/","dgHomeLink":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowFileTree":false,"dgEnableSearch":false,"dgShowToc":false,"created":"2023-01-10T15:47:02.456+01:00","updated":"2023-01-10T16:07:59.923+01:00"}
+{"dg-publish":true,"permalink":"/example-pages/simple-page/","created":"2023-01-10T15:47:02.456+01:00","updated":"2023-01-10T16:07:59.923+01:00"}
 ---
 
 
