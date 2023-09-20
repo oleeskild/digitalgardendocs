@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-05-23T22:58:33.266+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-09-20T22:20:53.795+02:00"}
 ---
 
 
@@ -22,6 +22,11 @@ If you want your filepaths in the garden to differ from the vault path, you can 
 ![CleanShot 2023-05-23 at 22.48.16@2x.png](/img/user/img/CleanShot%202023-05-23%20at%2022.48.16@2x.png)
 
 After adding this, all affected notes should show up as changed in the publication center, allowing you to update them. 
+
+> [!tip] Protip
+> If you want all your digital garden notes to be in a folder, say "published" in your vault, but appear under the root of your website you can use a rule on the form"published:". That is the folder path, and a colon not followed by anything. All notes under the folder "published" wil then appear on your website like "example.com/mynote" 
+
+
 
 ### Rewrite path for single note.
 You can also change the note on a per note basis. Using `dg-path` in the frontmatter, you can change where a note should be located in the garden. This will overwrite any rules that may apply to that note. 
