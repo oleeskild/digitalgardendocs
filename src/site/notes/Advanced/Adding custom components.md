@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","created":"2023-02-07T13:09:11.332+01:00","updated":"2023-03-09T15:23:44.439+01:00"}
+{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","created":"2023-02-07T13:09:11.332+01:00","updated":"2023-09-12T12:52:17.949+02:00"}
 ---
 
 
@@ -11,9 +11,11 @@ Release 1.39.0 of the template introduced a new way to add custom components to 
 
 The template now has the concept of slots, where you can add any content you want. Be it Javascript, HTML or CSS. 
 
-## Available slots
 
-### Notes
+
+# Available slots
+
+## Notes
 ### Namespaces
 These are the namespaces currently supported for notes:
 * common
@@ -69,7 +71,7 @@ The components are written in [Nunjuck](https://mozilla.github.io/nunjucks/), a 
 </script>
 ```
 
-The important thing is that the fileextension used is "njk".
+The important thing is that the file extension used is "njk".
 
 If you don't want to inline your scripts, but have them in a separate `js` file, you can put them in the `src/site/scripts` folder. They can then be referenced like this in your `njk` file:
 
@@ -140,4 +142,4 @@ Any css/scss files placed under `src/site/styles/user` will automatically be l
 
 
 ## Examples in the wild
-To get started and see a live example, take a look at GitHub user [uroybd](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user) 's garden, [topobon](https://topobon.utsob.me/) . He uses components to add a theme switcher and a disqus comment section among other things. You can take a look at how he's imlemented it [here](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
+To get started and see a live example, take a look at GitHub user [uroybd](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user) 's garden, [topobon](https://topobon.utsob.me/) . He uses components to add a theme switcher and a disqus comment section among other things. You can take a look at how he's implemented it [here](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
