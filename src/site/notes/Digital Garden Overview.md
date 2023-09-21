@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-overview/","tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-07-06T10:30:21.675+02:00"}
+{"dg-publish":true,"permalink":"/digital-garden-overview/","tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-09-21T10:32:44.163+02:00"}
 ---
 
 
@@ -13,6 +13,7 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 
 👉 [[Getting Started/01 Getting started\|Getting Started]]
 👉 [[Features\|Features]]
+👉 [Join the Discord Server](https://discord.gg/Z46n2RNX8e)
 <div style="display:none; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
 		<button style=" font-size: 32px; padding: 10px 20px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer;">
@@ -20,7 +21,6 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 		</button>
 	</a>
 </div>
-
 
 ## Examples
 This site is itself powered by the Digital Garden plugin. 
