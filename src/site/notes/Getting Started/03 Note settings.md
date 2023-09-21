@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-01-09T18:31:27.750+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-09-21T10:45:23.007+02:00"}
 ---
 
 By default the website is very simple, simply showing your note content, and a navbar at the top. But the plugin also support features like backlinks, local graph and search. 
@@ -27,6 +27,9 @@ dg-publish: true
 dg-show-local-graph: true
 ```
 
+> [!note] Obsidian properties
+> After introducing [properties](https://help.obsidian.md/Editing+and+formatting/Properties), Obsidian doesn't explicitly put the necessary "false" value on checkbox properties when they aren't checked. For now you'll need to use properties as text types when wanting to disable settings on a specific note. For example, the [[Example pages/Simple Page\|Simple Page]] note's properties looks like this:
+> ![CleanShot 2023-09-21 at 10.41.39@2x.png](/img/user/CleanShot%202023-09-21%20at%2010.41.39@2x.png)
 
 ## Available settings
 
