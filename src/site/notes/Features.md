@@ -52,19 +52,19 @@ let a = 5;
 list from "Advanced"
 ```
 
-- [[Advanced/Configure build pipeline\|Configure build pipeline]]
-- [[Advanced/Adding custom components\|Adding custom components]]
-- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Adding custom components\|Adding custom components]]
 - [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
-- [[Advanced/Hosting alternatives\|Hosting alternatives]]
-- [[Advanced/Tips and Tricks\|Tips and Tricks]]
-- [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
 - [[Advanced/Guides and How-Tos/Adding analytics\|Adding analytics]]
-- [[Advanced/Roadmap\|Roadmap]]
+- [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/Tips and Tricks\|Tips and Tricks]]
+- [[Advanced/Hosting alternatives\|Hosting alternatives]]
+- [[Advanced/CSS Customization\|CSS Customization]]
+- [[Advanced/Roadmap\|Roadmap]]
 
 { .block-language-dataview}
 More details about dataview is available here: [[Advanced/Dataview queries\|Dataview queries]]
