@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/","created":"2022-11-10T14:34:31.728+01:00","updated":"2023-01-12T09:24:30.509+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/","created":"2022-11-10T14:34:31.728+01:00","updated":"2023-09-26T21:08:08.004+02:00"}
 ---
 
 
@@ -18,7 +18,13 @@ In the future you will be notified with a visual cue whenever there is an update
 
 
 ## Modifying the template/site
-The code for the website is available in the repo you created in step 3 in the [[Getting Started/01 Getting started\|getting started page]], and this is yours to modify however you want. If you know some css I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid
-future conflict when updating the template. Netlify should automatically update your site when you make changes to the code.
+The code for the website is available in the repo you created in step 3 in the [[Getting Started/01 Getting started\|getting started page]], and this is yours to modify however you want. 
+
+If you want to make sure your changes doesn't get overwritten whenever you update the template again, see the following docs for how to apply customization without risking an overwrite on the next update:
+
+[[Advanced/CSS Customization\|CSS Customization]]
+[[Advanced/Adding custom components\|Adding custom components]]
+[[Advanced/Content Customization\|Content Customization]]
+[[Advanced/Configure build pipeline\|Configure build pipeline]]
 
 [[Getting Started/05 Other Settings\|< Prev]]
