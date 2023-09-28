@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes/","tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-09-21T10:32:44.163+02:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-09-28T15:01:17.859+02:00"}
 ---
 
 
