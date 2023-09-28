@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","created":"2022-11-09T22:09:04.283+01:00","updated":"2023-09-28T14:58:26.417+02:00"}
+{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","created":"2022-11-09T22:09:04.283+01:00","updated":"2023-09-28T14:59:43.987+02:00"}
 ---
 
 Here are a collection and tips and tricks that can be of use when publishing your notes. 
@@ -20,7 +20,7 @@ Some people have requested functionality for publishing all notes in a given fol
 ---
 
 ## Render HTML
-If you write any HTML in your notes, they will be rendered in the garden. This means you can create custom "website-like" component on your site. As an example, the grid rendered  in [[Digital Garden - Publish your Obsidian notes#Sites people have created\|Digital Garden - Publish your Obsidian notes#Sites people have created]] was created using divs and image tags with some custom inline styling. 
+If you write any HTML in your notes, they will be rendered in the garden. This means you can create custom "website-like" component on your site. As an example, the grid rendered  in [[Digital Garden - Publish Obsidian notes#Sites people have created\|Digital Garden - Publish Obsidian notes#Sites people have created]] was created using divs and image tags with some custom inline styling. 
 
 
 ```html
