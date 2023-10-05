@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-09-21T10:45:23.007+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-10-05T13:53:46.399+02:00"}
 ---
 
 By default the website is very simple, simply showing your note content, and a navbar at the top. But the plugin also support features like backlinks, local graph and search. 
@@ -89,8 +89,7 @@ If search is enabled, clicking on a tag will bring up the search box and show al
 ---
 
 ### Let all frontmatter through
-Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
-
+Off by default. Most users want this turned off. This is a setting mainly for advanced users, who modifies their template and wants full control over what frontmatter is passed through to the template. By default all frontmatter properties not recognized by the plugin are stripped away before publishing. This is to prevent the build in Netlify from failing if there are data in the frontmatter not recognized by the static site generator. (See [11ty Front Matter Data](https://www.11ty.dev/docs/data-frontmatter/) for details on this). If you're site suddenly stopped working, and this is enabled, it is worth trying to disable it again. 
 
 ---
 
