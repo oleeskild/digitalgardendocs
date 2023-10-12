@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-10-05T13:53:46.399+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/03-note-settings/","created":"2022-11-09T21:25:24.865+01:00","updated":"2023-10-12T17:02:52.890+02:00"}
 ---
 
 By default the website is very simple, simply showing your note content, and a navbar at the top. But the plugin also support features like backlinks, local graph and search. 
@@ -11,7 +11,7 @@ All such settings are available in the "Note Settings" dialog. To edit them, got
 You should then be presented with a dialog looking like this:
 ![CleanShot 2022-11-09 at 21.38.15@2x.png](/img/user/img/CleanShot%202022-11-09%20at%2021.38.15@2x.png)
 
-When these are turned on or off, the setting will instantly be published to your site. The settings set here are the global default settings used for each published note. If you want more granular control, and disable or enable some features for some particular notes, you can do this via front matter. All the settings has the frontmatter equivalence written in paranthesis behind the settings. 
+When these are turned on or off, the setting will instantly be published to your site. The settings set here are the global default settings used for each published note. If you want more granular control, and disable or enable some features for some particular notes, you can do this via front matter. All the settings has the frontmatter/[[Getting Started/01 Getting started#^ad515c\|properties]] equivalence written in paranthesis behind the settings. 
 
 So if you have enabled the search globally, but have one note where you want to disable this, you can do so by setting the `dg-enable-search` to false:
 
