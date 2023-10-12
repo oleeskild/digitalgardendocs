@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-09-30T15:07:57.030+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-10-12T17:02:42.680+02:00"}
 ---
 
 The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
@@ -40,23 +40,29 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
 
    ---
    
-7. Now, let's publish your first note! Create a new note in Obsidian. And add this to the top of your file
+7. Now, let's publish your first note! Create a new note in Obsidian. Now add two new properties to the note.
 
-```
----
-dg-publish: true
-dg-home: true
----
-```
+> [!tip]- Help! How do I add a property to a note
+> Properties was added in Obsidian in [version 4.1](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
+> To add a property to a note, you have several options:
+> * Use the **Add file property** command.
+> * Use the **`Cmd/Ctrl+;`** hotkey.
+> * Choose **Add file property** from the **More actions** menu (three dots icon) or right-clicking the tab.
+> * Type `---` at the very beginning of a file.
+{ #ad515c}
 
+
+* A checkbox named `dg-publish`
+* A checkbox named `dg-home`
+Toggle both checkboxes so that they are in the `checked` state.
 It should look something like this:
+![CleanShot 2023-10-12 at 16.59.10@2x.png](/img/user/CleanShot%202023-10-12%20at%2016.59.10@2x.png)
 
-![CleanShot 2022-11-09 at 21.11.07@2x.png](/img/user/img/CleanShot%202022-11-09%20at%2021.11.07@2x.png)
 **This does two things:**
 
 * The dg-home setting tells the plugin that this should be your home page or entry into your digital garden. (It only needs to be added to _one_ note, not every note you'll publish).
 
-* The dg-publish setting tells the plugin that this note should be published to your digital garden. Notes without this setting will not be published. (In other terms: Every note you publish will need this setting.)
+* The dg-publish setting tells the plugin that this note should be published to your digital garden. Notes without this setting will not be published. (In other terms: Every note you publish will need this property.)
 
 --- 
 
