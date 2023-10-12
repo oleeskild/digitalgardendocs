@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-10-12T17:02:42.680+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/01-getting-started/","created":"2022-11-09T21:00:34.961+01:00","updated":"2023-10-12T17:08:06.699+02:00"}
 ---
 
 The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
@@ -32,11 +32,7 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
 ---
 
 6. Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo with your notes which you created in step 3, and lastly paste in your token. 
-   ![CleanShot 2022-11-09 at 21.08.36@2x.png](/img/user/img/CleanShot%202022-11-09%20at%2021.08.36@2x.png)
-
-   
-> [!NOTE] Appearance change
-> In a recent update the appearance of the setting menu have changed a bit to make it easier to navigate. The screenshots used here are a bit outdated, but the setting names shouldn't have changed much.
+![CleanShot 2023-10-12 at 17.06.27@2x.png](/img/user/CleanShot%202023-10-12%20at%2017.06.27@2x.png)
 
    ---
    
@@ -80,7 +76,7 @@ You can now start adding links as you usually would in Obisidan, with double squ
 
 Remember to also publish the notes your are linking to as this will not happen automatically. This is by design. You are always in control of what notes you actually want to publish. If you did not publish a linked note, the link will simply lead to a site telling the user that this note does not exist. 
 
-If you want to unpublish a note, without deleting the note from your vault, simply remove the dg-publish: true attribute in the fronmatter, open the [[Getting Started/02 Commands#Open Publication Center\|publication center]] and click the "Delete notes from garden" button. 
+If you want to unpublish a note, without deleting the note from your vault, simply uncheck or remove the dg-publish property in the note, open the [[Getting Started/02 Commands#Open Publication Center\|publication center]] and click the "Delete notes from garden" button. 
 
 Now that you are up and running, you can take a look at the available [[Getting Started/02 Commands\|commands]] or the various available [[Getting Started/03 Note settings\|note settings]]. Or maybe you want to [[Getting Started/04 Appearance Settings\|change your theme]]?
 
