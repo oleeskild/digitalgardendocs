@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-09-28T15:01:17.859+02:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-11-02T16:09:04.400+01:00"}
 ---
 
 
@@ -29,39 +29,42 @@ This site is itself powered by the Digital Garden plugin.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-			<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1688631583/CleanShot_2023-07-06_at_10.13.42_2x_uygc7w.png"/>
+			<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631583/CleanShot_2023-07-06_at_10.13.42_2x_uygc7w.png"/>
 			<a href="https://edav-garden.netlify.app/" target="_blank">Edav Garden</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1668500110/dgdocs/CleanShot_2022-11-15_at_09.14.26_2x.png"/>
 		<a href="https://ajy.co/" target="_blank">ajy.co</a>
 	</div>
+<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1698937521/CleanShot_2023-11-02_at_16.04.42_2x_ldmmgq.png"/>
+		<a href="https://teresawatts.com/" target="_blank">Teresa Watts</a>
+	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
 		<a href="https://notes.thatother.dev/" target="_blank">That Other Dev</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1672992556/dgdocs/CleanShot_2023-02-05_at_20.18.45_2x"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1672992556/dgdocs/CleanShot_2023-02-05_at_20.18.45_2x"/>
 		<a href="https://hermitage.utsob.me/" target="_blank">Hermitage</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2023-02-05_at_20.17.02_2x"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1668068103/dgdocs/CleanShot_2023-02-05_at_20.17.02_2x"/>
 		<a href="https://icewind.quest/" target="_blank">IceWind.Quest</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1688631571/CleanShot_2023-07-06_at_10.18.05_2x_ftkq4h.png"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631571/CleanShot_2023-07-06_at_10.18.05_2x_ftkq4h.png"/>
 		<a href="https://notes.johnmavrick.com/" target="_blank">John's Idea Galaxy</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1688631575/CleanShot_2023-07-06_at_10.17.30_2x_ip7rjv.png"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631575/CleanShot_2023-07-06_at_10.17.30_2x_ip7rjv.png"/>
 		<a href="https://digital-garden-myqntm.vercel.app/" target="_blank">DigiGarden</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1671387169/dgdocs/CleanShot_2022-12-18_at_19.12.28_2x.png"/>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1671387169/dgdocs/CleanShot_2022-12-18_at_19.12.28_2x.png"/>
 		<a href="https://notes.ole.dev/" target="_blank">notes.ole.dev</a>
-	</div>
+	</div>	
 </div>
-
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
