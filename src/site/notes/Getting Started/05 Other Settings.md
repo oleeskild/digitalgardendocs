@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2023-09-20T22:20:53.795+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/05-other-settings/","created":"2022-11-09T21:29:15.130+01:00","updated":"2024-01-07T21:09:54.725+01:00"}
 ---
 
 
@@ -54,7 +54,7 @@ This is some private text that should not be published.
 ```
 
 You could then add the following filter.
-
+`:::hidden(.*\n)*?:::`
 ![CleanShot 2023-05-23 at 22.53.24@2x.png](/img/user/img/CleanShot%202023-05-23%20at%2022.53.24@2x.png)
 It also supports Regex groups, meaning you can use $1, $2 etc in the replacement string to insert the first and second regex group and so on. 
 
