@@ -54,17 +54,17 @@ list from "Advanced"
 
 - [[Advanced/Adding custom components\|Adding custom components]]
 - [[Advanced/CSS Customization\|CSS Customization]]
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
-- [[Advanced/Configure build pipeline\|Configure build pipeline]]
-- [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
+- [[Advanced/Content Customization\|Content Customization]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
 - [[Advanced/Fine grained access token\|Fine grained access token]]
-- [[Advanced/Guides and How-Tos/Adding analytics\|Adding analytics]]
-- [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
-- [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
+- [[Advanced/Guides and How-Tos/Adding analytics\|Adding analytics]]
 - [[Advanced/Roadmap\|Roadmap]]
+- [[Advanced/Hosting alternatives\|Hosting alternatives]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 
 { .block-language-dataview}
 More details about dataview is available here: [[Advanced/Dataview queries\|Dataview queries]]
@@ -133,7 +133,7 @@ More details about dataview is available here: [[Advanced/Dataview queries\|Data
 [MathJax Reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
 ```
-$$\frac{1}{0} = \infty$$
+$\frac{1}{0} = \infty$
 ```
 
 $$\frac{1}{0} = \infty$$
