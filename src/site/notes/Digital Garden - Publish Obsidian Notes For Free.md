@@ -64,6 +64,10 @@ This site is itself powered by the Digital Garden plugin.
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1671387169/dgdocs/CleanShot_2022-12-18_at_19.12.28_2x.png"/>
 		<a href="https://notes.ole.dev/" target="_blank">notes.ole.dev</a>
 	</div>	
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://www.dropbox.com/scl/fi/8mbiisjezqkh9ivb93p03/SCR-20241231-lhag.png?rlkey=1ryhf28yqn9uyhkcb29pm1hx9&dl=1" width="220" height="160" />
+		<a href="https://craftengineer.com/" target="_blank">craftengineer.com</a>
+	</div>	
 </div>
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
