@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:44:41.614+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:45:16.401+01:00"}
 ---
 
 
@@ -31,7 +31,7 @@ Have a look at [Obsidian Gallery](https://obsidian-gallery.craftengineer.com/) m
 <div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="https://obsidian-gallery.craftengineer.com/" target="_blank">
 		<button style=" font-size: 24px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer; ">
-			Submit your site
+			Submit your digital garden 
 		</button>
 	</a>
 </div>
