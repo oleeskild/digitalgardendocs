@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2023-11-02T16:09:04.400+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:38:57.338+01:00"}
 ---
 
 
@@ -26,7 +26,16 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 This site is itself powered by the Digital Garden plugin. 
 
 ### Sites other people have created
+Have a look at [Obsidian Gallery](https://obsidian-gallery.craftengineer.com/) maintained by GitHub user [Jiri Sifalda's](https://github.com/jsifalda) for an updated list of Digital Gardens created by the community.
+<div style="display: flex; justify-content: center; cursor: pointer;">
+	<a href="https://obsidian-gallery.craftengineer.com/" target="_blank">
+		<button style=" font-size: 24px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer; ">
+			Submit your site
+		</button>
+	</a>
+</div>
 
+#### Featured sites
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 			<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631583/CleanShot_2023-07-06_at_10.13.42_2x_uygc7w.png"/>
@@ -53,8 +62,8 @@ This site is itself powered by the Digital Garden plugin.
 		<a href="https://icewind.quest/" target="_blank">IceWind.Quest</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631571/CleanShot_2023-07-06_at_10.18.05_2x_ftkq4h.png"/>
-		<a href="https://notes.johnmavrick.com/" target="_blank">John's Idea Galaxy</a>
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631571/dgdocs/ton0zxq8eoiuyf6dqyhp"/>
+		<a href="https://www.craftengineer.com/" target="_blank">Craft Engineer</a>
 	</div>
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1688631575/CleanShot_2023-07-06_at_10.17.30_2x_ip7rjv.png"/>
@@ -66,11 +75,4 @@ This site is itself powered by the Digital Garden plugin.
 	</div>	
 </div>
 
-<div style="display: flex; justify-content: center; cursor: pointer;">
-	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
-		<button style=" font-size: 24px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer; ">
-			Submit your site
-		</button>
-	</a>
-</div>
 
