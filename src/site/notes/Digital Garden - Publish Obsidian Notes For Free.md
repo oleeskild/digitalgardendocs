@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:38:57.338+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:40:07.310+01:00"}
 ---
 
 
@@ -22,10 +22,9 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 	</a>
 </div>
 
-## Examples
-This site is itself powered by the Digital Garden plugin. 
 
 ### Sites other people have created
+This site is itself powered by the Digital Garden plugin. 
 Have a look at [Obsidian Gallery](https://obsidian-gallery.craftengineer.com/) maintained by GitHub user [Jiri Sifalda's](https://github.com/jsifalda) for an updated list of Digital Gardens created by the community.
 <div style="display: flex; justify-content: center; cursor: pointer;">
 	<a href="https://obsidian-gallery.craftengineer.com/" target="_blank">
