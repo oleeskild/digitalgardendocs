@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","created":"2022-11-09T22:09:04.283+01:00","updated":"2023-09-30T14:50:18.372+02:00"}
+{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","created":"2022-11-09T22:09:04.283+01:00","updated":"2025-02-10T16:31:09.197+01:00"}
 ---
 
 Here are a collection and tips and tricks that can be of use when publishing your notes. 
@@ -107,3 +107,8 @@ This can even be automated by using a plugin like the [Obsidian Imgur Plugin](ht
 
 ### Adding analytics to Vercel
 If you are using Vercel to host your site, you can add basic analytics to your site by following the instructions described [here](https://github.com/oleeskild/obsidian-digital-garden/discussions/195)
+
+---
+
+### Disable  auto detection of URLs
+The garden will automatically find text that looks like URLs and make them clickable automatically. If, for some reason, you do not want that you can follow the instructions given in [this comment](https://github.com/oleeskild/obsidian-digital-garden/issues/317#issuecomment-2647525906) to turn it off.
