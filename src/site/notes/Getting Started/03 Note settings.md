@@ -64,7 +64,7 @@ Off by default. When turned on, the filename will be shown on the top of the pag
 ---
 
 ### Show filetree sidebar
-Off by default. When turned on, a sidebar will be shown to the right, with all your published notes displayed in the folder hierarchy they are placed in in Obsidian. On smaller screens it will disappear, but can be viewed by clicking the "hamburger" menu in the top left corner.
+Off by default. When turned on, a sidebar will be shown to the left, with all your published notes displayed in the folder hierarchy they are placed in in Obsidian. On smaller screens it will disappear, but can be viewed by clicking the "hamburger" menu in the top left corner.
 
 ---
 
