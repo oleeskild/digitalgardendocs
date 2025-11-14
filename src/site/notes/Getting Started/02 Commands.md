@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/02-commands/","created":"2022-11-09T21:18:05.884+01:00","updated":"2023-03-17T14:40:54.777+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/02-commands/","created":"2022-11-09T21:18:05.884+01:00","updated":"2025-11-14T21:02:52.217+01:00"}
 ---
 
 
-### Publish Single Note
+### Publish Active Note
 Will publish the currently active note, and only this. `dg-publish: true` must be set on the active note.
 
 
@@ -21,7 +21,7 @@ It essentially works the same way as manually triggering the commands `Add Publi
 
 --- 
 
-### Publish Multiple Notes
+### Publish All Notes Marked for Publish 
 This command will publish all notes in your vault that have the dg-publish setting set to true. Depending on the number of notes, this may take a while. You can watch the progress of publication in the bottom right statusbar. 
 
 ---
