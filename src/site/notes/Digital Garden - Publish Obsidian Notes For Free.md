@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-02-04T15:45:16.401+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"created":"2022-11-09T20:33:18.894+01:00","updated":"2025-11-14T22:03:50.498+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 
 👉 [[Getting Started/01 Getting started\|Getting Started]]
 👉 [[Features\|Features]]
-👉 [Join the Discord Server](https://discord.gg/Z46n2RNX8e)
+👉 [Join the Discord Server](https://discord.gg/UsPH74nEVS)
 <div style="display:none; justify-content: center; cursor: pointer;">
 	<a href="/getting-started/01-getting-started/">
 		<button style=" font-size: 32px; padding: 10px 20px; height: fit-content; margin-top: 20px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer;">
@@ -21,6 +21,10 @@ Publish your notes directly from [Obsidian](https://obsidian.md/) to the interne
 		</button>
 	</a>
 </div>
+
+
+> [!tip] Forestry.md just launched 🎉
+> Would you prefer a one click setup? Check out the newly launched cloud service [Forestry.md](https://forestry.md), for hosting your digital garden without any technical hassle.
 
 
 --- 
