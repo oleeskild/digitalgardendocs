@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T23:30:12.402+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T23:34:49.870+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -86,11 +86,11 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-link " data-node-id="5d22a4d4f1ae3056" style="transform: translate(4280px, -440px); width: 640px; height: 360px; ">
-	<div class="canvas-node-label">www.youtube.com</div>
+<div class="canvas-node canvas-node-link canvas-node-youtube " data-node-id="776610e76ab94902" style="transform: translate(4320px, -251px); width: 640px; height: 360px; ">
+	<div class="canvas-node-label">YouTube</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content">
-			<iframe src="https://www.youtube.com/watch?v=l8vt-YVaPnI" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+			<iframe src="https://www.youtube.com/embed/X_1cgHy4M7E" class="canvas-youtube-iframe" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
