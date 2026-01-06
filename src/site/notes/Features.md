@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2026-01-06T22:36:53.975+01:00"}
+{"dg-publish":true,"permalink":"/features/","created":"2022-11-10T13:32:48.786+01:00","updated":"2026-01-06T22:46:03.678+01:00"}
 ---
 
 
@@ -67,6 +67,7 @@ list from "Advanced"
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
 
 { .block-language-dataview}
+
 More details about dataview is available here: [[Advanced/Dataview queries\|Dataview queries]]
 
 ---
