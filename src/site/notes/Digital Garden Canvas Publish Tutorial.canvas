@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:56:52.793+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T23:02:09.991+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -31,7 +31,7 @@
 		</svg>
 		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(50px, -480px); width: 510px; height: 120px; ">
 	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
 		</div>
 	</div>
