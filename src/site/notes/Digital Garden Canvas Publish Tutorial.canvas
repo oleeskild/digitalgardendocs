@@ -1,0 +1,72 @@
+---
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:35:23.193+01:00"}
+---
+
+<div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Digital_Garden_Canvas_Publish_Tutorialcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Digital_Garden_Canvas_Publish_Tutorialcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 245 -400 C 245 -272, 245 -208, 245 -80" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="73791d32c2a003d5"  marker-end="url(#arrow-vartextmuted)" /><text x="245" y="-240" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
+<path d="M 444 281.5 C 827.0772767993424 281.5, 976.9227232006576 2, 1360 2" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1a287985ec976d63"  marker-end="url(#arrow-vartextmuted)" /><text x="902" y="141.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">2. Click the i icon to add properties</text>
+<path d="M 2169 282 C 2169 525.1411112913652, 2060 636.8588887086348, 2060 880" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7577cd4e91c5e669"  marker-end="url(#arrow-vartextmuted)" /><text x="2114.5" y="581" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">3. Add dg-publish true checkbox</text>
+<path d="M 2600 1553.5 C 2943.7446145032677 1553.5, 2896.2553854967323 980, 3240 980" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2920" y="1266.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
+		</svg>
+		<div class="canvas-node canvas-node-group " data-node-id="76ac321db8ece3bd" style="transform: translate(-20px, -500px); width: 4324px; height: 2747px;  ">
+	<div class="canvas-node-label">How to publish canvas files</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(-10px, -480px); width: 510px; height: 80px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="06e2f49da6c43674" style="transform: translate(46px, -80px); width: 398px; height: 723px; ">
+	<div class="canvas-node-label">obsidian.md</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://obsidian.md/plugins?search=advanced%20canvas" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f1b4503bd8430dde" style="transform: translate(1520px, 880px); width: 1080px; height: 1347px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/publishproperty.png" alt="publishproperty.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="6aad1ac22b9dc21e" style="transform: translate(1360px, -278px); width: 1618px; height: 560px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/addproperties.png" alt="addproperties.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(3240px, 880px); width: 1034px; height: 200px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
