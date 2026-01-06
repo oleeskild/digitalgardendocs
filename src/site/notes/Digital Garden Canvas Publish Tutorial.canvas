@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:46:39.787+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:52:17.897+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -24,41 +24,40 @@
 				<feMergeNode in="bg"/>
 				<feMergeNode in="SourceGraphic"/>
 			</feMerge>
-		</filter></defs><path d="M 245 -400 C 245 -272, 245 -208, 245 -80" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="73791d32c2a003d5"  marker-end="url(#arrow-vartextmuted)" /><text x="245" y="-240" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
-<path d="M 444 281.5 C 827.0772767993424 281.5, 976.9227232006576 2, 1360 2" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1a287985ec976d63"  marker-end="url(#arrow-vartextmuted)" /><text x="902" y="141.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">2. Click the i icon to add properties</text>
-<path d="M 2169 282 C 2169 525.1411112913652, 2060 636.8588887086348, 2060 880" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7577cd4e91c5e669"  marker-end="url(#arrow-vartextmuted)" /><text x="2114.5" y="581" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">3. Add dg-publish true checkbox</text>
-<path d="M 2600 1553.5 C 2943.7446145032677 1553.5, 2896.2553854967323 980, 3240 980" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2920" y="1266.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
+		</filter></defs><path d="M 1929 960 C 1929 1237.0013718377581, 2060 1362.9986281622419, 2060 1640" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7577cd4e91c5e669"  marker-end="url(#arrow-vartextmuted)" /><text x="1994.5" y="1300" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">3. Add dg-publish true checkbox</text>
+<path d="M 2600 2313.5 C 2796.081717658735 2313.5, 2883.918282341265 2214, 3080 2214" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2840" y="2263.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
+<path d="M 245 -420 C 245 -286.23961722542805, -23 -353.76038277457195, -23 -220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9ddab69be5a67825"  marker-end="url(#arrow-vartextmuted)" /><text x="111" y="-320" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
+<path d="M -23 558 C -23 1017.7969986852895, 660.2030013147105 680, 1120 680" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ae438c1cc89894d3"  marker-end="url(#arrow-vartextmuted)" /><text x="376.07612549301643" y="791.4238745069836" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">2. Click the i icon to add properties</text>
 		</svg>
-		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(-10px, -480px); width: 510px; height: 80px; ">
+		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(50px, -480px); width: 390px; height: 60px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-link " data-node-id="06e2f49da6c43674" style="transform: translate(46px, -80px); width: 398px; height: 723px; ">
-	<div class="canvas-node-label">obsidian.md</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content">
-			<iframe src="https://obsidian.md/plugins?search=advanced%20canvas" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f1b4503bd8430dde" style="transform: translate(1520px, 880px); width: 1080px; height: 1347px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b655442e6daecc46" style="transform: translate(-500px, -220px); width: 954px; height: 778px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
-			<img src="/img/user/publishproperty.png" alt="publishproperty.png" loading="lazy" />
+			<img src="/img/user/CleanShot%202026-01-06%20at%2022.48.53@2x.png" alt="CleanShot 2026-01-06 at 22.48.53@2x.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="6aad1ac22b9dc21e" style="transform: translate(1360px, -278px); width: 1618px; height: 560px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="6aad1ac22b9dc21e" style="transform: translate(1120px, 400px); width: 1618px; height: 560px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/addproperties.png" alt="addproperties.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(3240px, 880px); width: 1034px; height: 200px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f1b4503bd8430dde" style="transform: translate(1520px, 1640px); width: 1080px; height: 1347px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/publishproperty.png" alt="publishproperty.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(3080px, 2114px); width: 1034px; height: 200px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
