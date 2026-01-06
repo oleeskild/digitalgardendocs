@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T23:25:35.925+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T23:30:12.402+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -31,6 +31,9 @@
 		</svg>
 		<div class="canvas-node canvas-node-group has-color" data-node-id="90e85cb1bc18d9e6" style="transform: translate(-100px, -820px); width: 3329px; height: 2983px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">Publishing canvas tutorial</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="e30c9d67556df03d" style="transform: translate(3860px, -660px); width: 2380px; height: 1780px; --canvas-color: #53dfdd; ">
+	<div class="canvas-node-label">Embed videos, websites or other notes</div>
 </div>
 <div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b655442e6daecc46" style="transform: translate(-89px, -280px); width: 954px; height: 778px; ">
 	<div class="canvas-node-container">
@@ -64,6 +67,30 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="bc39ca181a0d2149" style="transform: translate(5120px, 109px); width: 1100px; height: 836px; ">
+	<div class="canvas-node-label">en.wikipedia.org</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://en.wikipedia.org/wiki/Norway" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="2185c6517f84897f" data-file-path="Advanced/Adding custom components.md" style="transform: translate(3880px, 493px); width: 880px; height: 607px; ">
+	<div class="canvas-node-label">Adding custom components</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/advanced/adding-custom-components//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="5d22a4d4f1ae3056" style="transform: translate(4280px, -440px); width: 640px; height: 360px; ">
+	<div class="canvas-node-label">www.youtube.com</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://www.youtube.com/watch?v=l8vt-YVaPnI" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
 		</div>
 	</div>
 </div>
