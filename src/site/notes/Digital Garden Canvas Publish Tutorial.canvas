@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:52:17.897+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:56:52.793+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -25,11 +25,11 @@
 				<feMergeNode in="SourceGraphic"/>
 			</feMerge>
 		</filter></defs><path d="M 1929 960 C 1929 1237.0013718377581, 2060 1362.9986281622419, 2060 1640" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7577cd4e91c5e669"  marker-end="url(#arrow-vartextmuted)" /><text x="1994.5" y="1300" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">3. Add dg-publish true checkbox</text>
-<path d="M 2600 2313.5 C 2796.081717658735 2313.5, 2883.918282341265 2214, 3080 2214" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2840" y="2263.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
-<path d="M 245 -420 C 245 -286.23961722542805, -23 -353.76038277457195, -23 -220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9ddab69be5a67825"  marker-end="url(#arrow-vartextmuted)" /><text x="111" y="-320" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
+<path d="M 2600 2313.5 C 2799.612524657147 2313.5, 2880.387475342853 2177, 3080 2177" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2840" y="2245.25" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
+<path d="M 305 -360 C 305 -217.34853663561665, -23 -362.65146336438335, -23 -220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9ddab69be5a67825"  marker-end="url(#arrow-vartextmuted)" /><text x="141" y="-290" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
 <path d="M -23 558 C -23 1017.7969986852895, 660.2030013147105 680, 1120 680" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ae438c1cc89894d3"  marker-end="url(#arrow-vartextmuted)" /><text x="376.07612549301643" y="791.4238745069836" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">2. Click the i icon to add properties</text>
 		</svg>
-		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(50px, -480px); width: 390px; height: 60px; ">
+		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(50px, -480px); width: 510px; height: 120px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
@@ -57,7 +57,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(3080px, 2114px); width: 1034px; height: 200px; ">
+<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(3080px, 2114px); width: 1120px; height: 126px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
