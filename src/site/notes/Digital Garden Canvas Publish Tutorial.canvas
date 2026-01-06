@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:35:23.193+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-06T22:46:39.787+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -29,10 +29,7 @@
 <path d="M 2169 282 C 2169 525.1411112913652, 2060 636.8588887086348, 2060 880" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7577cd4e91c5e669"  marker-end="url(#arrow-vartextmuted)" /><text x="2114.5" y="581" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">3. Add dg-publish true checkbox</text>
 <path d="M 2600 1553.5 C 2943.7446145032677 1553.5, 2896.2553854967323 980, 3240 980" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d05888e6d5926540"  marker-end="url(#arrow-vartextmuted)" /><text x="2920" y="1266.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
 		</svg>
-		<div class="canvas-node canvas-node-group " data-node-id="76ac321db8ece3bd" style="transform: translate(-20px, -500px); width: 4324px; height: 2747px;  ">
-	<div class="canvas-node-label">How to publish canvas files</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(-10px, -480px); width: 510px; height: 80px; ">
+		<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(-10px, -480px); width: 510px; height: 80px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
