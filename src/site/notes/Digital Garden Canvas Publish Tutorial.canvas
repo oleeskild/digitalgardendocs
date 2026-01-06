@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T00:40:02.269+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T00:42:25.729+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -46,9 +46,9 @@
 <path d="M 388 -680 C 388 -520, 388 -440, 388 -280" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9ddab69be5a67825"  marker-end="url(#arrow-vartextmuted)" /><text x="388" y="-480" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">1. Install and enable Advanced Canvas Plugin</text>
 <path d="M 865 109 C 1151.8 109, 1295.2 109, 1582 109" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3c3fd7c581cb43ba"  marker-end="url(#arrow-vartextmuted)" /><text x="1223.5" y="109" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">2. Click the i icon to add properties</text>
 <path d="M 1851 1469.5 C 1654.5998981670325 1469.5, 1556.4001018329675 1470, 1360 1470" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="cd4a206cf620f41d"  marker-end="url(#arrow-vartextmuted)" /><text x="1605.5" y="1469.75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">4. Publish</text>
-<path d="M 5210 -360 C 5210 -207.14922309651152, 5112.850776903489 -71, 4960 -71" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="ff98c47e90dff38b"  marker-end="url(#arrow-fb464c)" />
-<path d="M 4150 300 C 4150 432.7548115888837, 4420 360.2451884111163, 4420 493" fill="none" stroke="#e0de71" stroke-width="2" class="canvas-edge" data-edge-id="f534aa67f93fa03d"  marker-end="url(#arrow-e0de71)" />
-<path d="M 5710 -200 C 5710 -75.36870376987969, 5670 -15.631296230120313, 5670 109" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="17df384868d35283"  marker-end="url(#arrow-53dfdd)" />
+<path d="M 5210 -340 C 5210 -193.10629693550507, 5106.893703064495 -71, 4960 -71" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="ff98c47e90dff38b"  marker-end="url(#arrow-fb464c)" />
+<path d="M 4150 330 C 4150 456.154825512146, 4420 366.845174487854, 4420 493" fill="none" stroke="#e0de71" stroke-width="2" class="canvas-edge" data-edge-id="f534aa67f93fa03d"  marker-end="url(#arrow-e0de71)" />
+<path d="M 5710 -180 C 5710 -63.297986307004976, 5670 -7.702013692995024, 5670 109" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="17df384868d35283"  marker-end="url(#arrow-53dfdd)" />
 		</svg>
 		<div class="canvas-node canvas-node-group has-color" data-node-id="90e85cb1bc18d9e6" style="transform: translate(-100px, -820px); width: 3329px; height: 2983px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">Publishing canvas tutorial</div>
@@ -107,23 +107,23 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="785514fc3ae663d1" style="transform: translate(5080px, -420px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="785514fc3ae663d1" style="transform: translate(5080px, -420px); width: 260px; height: 80px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="RW1iZWQgeW91dHViZSB2aWRlb3M="></div>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="babe3546c9cdbdc4" style="transform: translate(3980px, 240px); width: 340px; height: 60px; --canvas-color: #e0de71;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="babe3546c9cdbdc4" style="transform: translate(3980px, 240px); width: 340px; height: 90px; --canvas-color: #e0de71;">
 	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="RW1iZWQgb3RoZXIgKHB1Ymxpc2hlZCkgbm90ZXM="></div>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="72aeb06a6d540dd9" style="transform: translate(5580px, -260px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="72aeb06a6d540dd9" style="transform: translate(5580px, -260px); width: 260px; height: 80px; --canvas-color: #53dfdd;">
 	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="RW1iZWQgZW50aXJlIHdlYnNpdGVz"></div>
 		</div>
 	</div>
