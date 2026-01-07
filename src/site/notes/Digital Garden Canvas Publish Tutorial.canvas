@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T12:26:53.516+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T13:42:24.444+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -50,18 +50,11 @@
 <path d="M 4150 330 C 4150 456.154825512146, 4420 366.845174487854, 4420 493" fill="none" stroke="#e0de71" stroke-width="2" class="canvas-edge" data-edge-id="f534aa67f93fa03d"  marker-end="url(#arrow-e0de71)" />
 <path d="M 5710 -180 C 5710 -63.297986307004976, 5670 -7.702013692995024, 5670 109" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="17df384868d35283"  marker-end="url(#arrow-53dfdd)" />
 		</svg>
-		<div class="canvas-node canvas-node-group has-color" data-node-id="90e85cb1bc18d9e6" style="transform: translate(-100px, -820px); width: 3329px; height: 2983px; --canvas-color: #44cf6e; ">
+		<div class="canvas-node canvas-node-group has-color" data-node-id="90e85cb1bc18d9e6" style="transform: translate(-240px, -820px); width: 3840px; height: 3140px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">Publishing canvas tutorial</div>
 </div>
 <div class="canvas-node canvas-node-group has-color" data-node-id="e30c9d67556df03d" style="transform: translate(3860px, -660px); width: 2500px; height: 1980px; --canvas-color: #53dfdd; ">
 	<div class="canvas-node-label">Embed videos, websites or other notes</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(133px, -800px); width: 510px; height: 120px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
-		</div>
-	</div>
 </div>
 <div class="canvas-node canvas-node-link " data-node-id="bc39ca181a0d2149" style="transform: translate(5120px, 109px); width: 1100px; height: 836px; ">
 	<div class="canvas-node-label">en.wikipedia.org</div>
@@ -133,6 +126,13 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/CleanShot%202026-01-06%20at%2022.48.53@2x.png" alt="CleanShot 2026-01-06 at 22.48.53@2x.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(133px, -800px); width: 510px; height: 120px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
 		</div>
 	</div>
 </div>
