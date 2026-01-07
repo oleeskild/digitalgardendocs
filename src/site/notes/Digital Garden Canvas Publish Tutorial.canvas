@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T00:42:25.729+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden-canvas-publish-tutorial.canvas/","contentClasses":"canvas-page","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2026-01-06T22:17:52.882+01:00","updated":"2026-01-07T12:26:53.516+01:00"}
 ---
 
 <div id="Digital_Garden_Canvas_Publish_Tutorialcanvas" class="canvas-wrapper hide">
@@ -56,38 +56,10 @@
 <div class="canvas-node canvas-node-group has-color" data-node-id="e30c9d67556df03d" style="transform: translate(3860px, -660px); width: 2500px; height: 1980px; --canvas-color: #53dfdd; ">
 	<div class="canvas-node-label">Embed videos, websites or other notes</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b655442e6daecc46" style="transform: translate(-89px, -280px); width: 954px; height: 778px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/CleanShot%202026-01-06%20at%2022.48.53@2x.png" alt="CleanShot 2026-01-06 at 22.48.53@2x.png" loading="lazy" />
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text " data-node-id="d1797aafaf99b738" style="transform: translate(133px, -800px); width: 510px; height: 120px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="IyBQdWJsaXNoaW5nIGNhbnZhcyBmaWxlcw=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(240px, 1407px); width: 1120px; height: 126px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="6aad1ac22b9dc21e" style="transform: translate(1582px, -171px); width: 1618px; height: 560px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/addproperties.png" alt="addproperties.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f1b4503bd8430dde" style="transform: translate(1851px, 796px); width: 1080px; height: 1347px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/publishproperty.png" alt="publishproperty.png" loading="lazy" />
 		</div>
 	</div>
 </div>
@@ -133,6 +105,34 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
 			<iframe src="/advanced/adding-custom-components//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="6aad1ac22b9dc21e" style="transform: translate(1582px, -171px); width: 1618px; height: 560px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/addproperties.png" alt="addproperties.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f1b4503bd8430dde" style="transform: translate(1851px, 796px); width: 1080px; height: 1347px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/publishproperty.png" alt="publishproperty.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="04be75a26b58dd6a" style="transform: translate(240px, 1407px); width: 1120px; height: 126px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMgUHVibGlzaCB2aWEgY29tbWFuZCAiUHVibGlzaCBhY3RpdmUgbm90ZSIgb3IgdmlhIHRoZSBbW0dldHRpbmcgU3RhcnRlZC8wMiBDb21tYW5kcyNPcGVuIFB1YmxpY2F0aW9uIENlbnRlclx8cHVibGljYXRpb24gY2VudGVyXV0g"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b655442e6daecc46" style="transform: translate(-89px, -280px); width: 954px; height: 778px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/CleanShot%202026-01-06%20at%2022.48.53@2x.png" alt="CleanShot 2026-01-06 at 22.48.53@2x.png" loading="lazy" />
 		</div>
 	</div>
 </div>
