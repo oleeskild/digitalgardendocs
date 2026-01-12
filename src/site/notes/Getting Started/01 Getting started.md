@@ -19,7 +19,7 @@ The initial setup takes a couple of minutes, but when you're done you'll have a 
 4. Open [this repo](https://github.com/oleeskild/digitalgarden), and click the blue "Deploy to Vercel" button. 
 
 ![CleanShot 2023-01-22 at 23.38.57@2x.png](/img/user/img/CleanShot%202023-01-22%20at%2023.38.57@2x.png)
-   This should open Vercel and create a copy of this repository in your GitHub accont. Give it a fitting name like 'my-digital-garden'. Follow the steps in Vercel to publish your site to the internet.
+   This should open Vercel and create a copy of this repository in your GitHub account. Give it a fitting name like 'my-digital-garden'. Follow the steps in Vercel to publish your site to the internet.
  
    --- 
    
