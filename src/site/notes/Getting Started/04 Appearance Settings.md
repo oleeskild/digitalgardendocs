@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","created":"2022-11-09T21:44:37.853+01:00","updated":"2023-09-21T13:04:28.104+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/"}
 ---
 
 The appearance settings can be accessed in the settings menu: 

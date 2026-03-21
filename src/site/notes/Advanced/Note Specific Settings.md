@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","created":"2022-11-09T22:05:34.872+01:00","updated":"2023-09-25T22:49:09.512+02:00"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/"}
 ---
 
 ## Title

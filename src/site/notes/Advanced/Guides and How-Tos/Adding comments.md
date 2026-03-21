@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-comments/","created":"2023-03-20T15:58:09.579+01:00","updated":"2023-07-11T16:02:34.887+02:00"}
+{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-comments/"}
 ---
 
 Using [[Advanced/Adding custom components#How does it work?\|custom components]] you can add a comment system.

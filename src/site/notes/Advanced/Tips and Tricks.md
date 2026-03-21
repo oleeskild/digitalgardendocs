@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","created":"2022-11-09T22:09:04.283+01:00","updated":"2025-02-10T16:31:09.197+01:00"}
+{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/"}
 ---
 
 Here are a collection and tips and tricks that can be of use when publishing your notes. 

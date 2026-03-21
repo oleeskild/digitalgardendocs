@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/","created":"2022-11-10T14:34:31.728+01:00","updated":"2023-09-26T21:08:08.004+02:00"}
+{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/"}
 ---
 
 

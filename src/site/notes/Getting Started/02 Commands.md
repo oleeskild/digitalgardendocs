@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/02-commands/","created":"2022-11-09T21:18:05.884+01:00","updated":"2025-11-14T21:02:52.217+01:00"}
+{"dg-publish":true,"permalink":"/getting-started/02-commands/"}
 ---
 
 
