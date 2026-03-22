@@ -46,24 +46,31 @@ let a = 5;
 
 ---
 
+## Obsidian Bases 
+
+[[Advanced/Obsidian Bases\|Obsidian Bases]]
+
+---
+
 ## Dataview queries
 
 ```(dataview)
 list from "Advanced"
 ```
 
-- [[Advanced/Adding custom components\|Adding custom components]]
-- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/CSS Customization\|CSS Customization]]
+- [[Advanced/Adding custom components\|Adding custom components]]
 - [[Advanced/Content Customization\|Content Customization]]
-- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 - [[Advanced/Dataview queries\|Dataview queries]]
-- [[Advanced/Fine grained access token\|Fine grained access token]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 - [[Advanced/Guides and How-Tos/Adding analytics\|Adding analytics]]
 - [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
+- [[Advanced/Obsidian Bases\|Obsidian Bases]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
-- [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Roadmap\|Roadmap]]
+- [[Advanced/Note Specific Settings\|Note Specific Settings]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
 
 { .block-language-dataview}
