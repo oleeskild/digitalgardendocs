@@ -112,3 +112,13 @@ If you are using Vercel to host your site, you can add basic analytics to your s
 
 ### Disable  auto detection of URLs
 The garden will automatically find text that looks like URLs and make them clickable automatically. If, for some reason, you do not want that you can follow the instructions given in [this comment](https://github.com/oleeskild/obsidian-digital-garden/issues/317#issuecomment-2647525906) to turn it off.
+
+---
+
+# Creating hex map
+
+![CleanShot 2026-03-24 at 23.13.06@2x.png\|300](/img/user/CleanShot%202026-03-24%20at%2023.13.06@2x.png)
+
+Discord member palol has a guide on how to create a beautiful hexagon map of your notes. He has published a guide on his site 
+https://www.paologabriel.com/swamp/digital-garden-map/
+
