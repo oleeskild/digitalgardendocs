@@ -78,6 +78,10 @@ Have a look at [Obsidian Gallery](https://obsidian-gallery.craftengineer.com/) m
 		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_200/v1671387169/dgdocs/CleanShot_2022-12-18_at_19.12.28_2x.png"/>
 		<a href="https://notes.ole.dev/" target="_blank">notes.ole.dev</a>
 	</div>	
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://fwnip7tv9c.ufs.sh/f/hHjK7JqoBwLeogOKXNHFJuO5ptbynh7SXYCcjefQqZP3I94z"/>
+		<a href="https://www.paologabriel.com/" target="_blank">Paolo's Digital Swamp</a>
+	</div>
 </div>
 
 

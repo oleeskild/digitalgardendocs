@@ -112,3 +112,8 @@ If you are using Vercel to host your site, you can add basic analytics to your s
 
 ### Disable  auto detection of URLs
 The garden will automatically find text that looks like URLs and make them clickable automatically. If, for some reason, you do not want that you can follow the instructions given in [this comment](https://github.com/oleeskild/obsidian-digital-garden/issues/317#issuecomment-2647525906) to turn it off.
+
+---
+
+### Dungeon hexmap
+[**Dungeon hexmap**](https://www.paologabriel.com/swamp/digital-garden-map/) a creative example of using a hex-grid layout to map and navigate an Obsidian digital garden, with notes arranged as dungeon rooms following the digits of π. Click the link to learn how to build your own.
