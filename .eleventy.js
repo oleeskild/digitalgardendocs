@@ -13,6 +13,7 @@ const {
   userMarkdownSetup,
   userEleventySetup,
 } = require("./src/helpers/userSetup");
+const { basesPlugin } = require("./src/helpers/basesPlugin");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
@@ -103,6 +104,19 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+
+  // Fix Obsidian wiki-link pipe escaping (\|) in YAML frontmatter.
+  // Obsidian writes [[Page\|Alias]] in frontmatter, but \| is an invalid
+  // YAML escape sequence inside double-quoted strings, causing js-yaml to throw.
+  const jsYaml = require(require.resolve("js-yaml", { paths: [require.resolve("gray-matter")] }));
+  eleventyConfig.setFrontMatterParsingOptions({
+    engines: {
+      yaml: {
+        parse: (str) => jsYaml.load(str.replace(/\\\|/g, "|")),
+        stringify: (obj) => jsYaml.dump(obj),
+      },
+    },
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -140,6 +154,7 @@ module.exports = function(eleventyConfig) {
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
+    .use(basesPlugin)
     .use(function(md) {
       //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
