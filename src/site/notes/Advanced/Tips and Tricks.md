@@ -119,6 +119,6 @@ The garden will automatically find text that looks like URLs and make them click
 
 ![CleanShot 2026-03-24 at 23.13.06@2x.png\|300](/img/user/CleanShot%202026-03-24%20at%2023.13.06@2x.png)
 
-Discord member palol has a guide on how to create a beautiful hexagon map of your notes. He has published a guide on his site 
+Discord member palol has a guide on how to create a beautiful hexagon map of your notes. He has published a guide in his garden. 
 https://www.paologabriel.com/swamp/digital-garden-map/
 
