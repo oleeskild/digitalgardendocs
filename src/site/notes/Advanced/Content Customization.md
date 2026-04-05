@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/content-customization/"}
+{"dg-publish":true,"permalink":"/advanced/content-customization/","dg-note-properties":{}}
 ---
 
 

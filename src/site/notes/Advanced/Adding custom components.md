@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/adding-custom-components/"}
+{"dg-publish":true,"permalink":"/advanced/adding-custom-components/","dg-note-properties":{}}
 ---
 
 

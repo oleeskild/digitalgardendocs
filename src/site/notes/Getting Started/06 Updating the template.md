@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/"}
+{"dg-publish":true,"permalink":"/getting-started/06-updating-the-template/","dg-note-properties":{}}
 ---
 
 

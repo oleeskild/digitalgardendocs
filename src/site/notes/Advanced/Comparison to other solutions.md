@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/comparison-to-other-solutions/"}
+{"dg-publish":true,"permalink":"/advanced/comparison-to-other-solutions/","dg-note-properties":{}}
 ---
 
 ## Pros

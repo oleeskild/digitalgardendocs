@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/example-pages/transcluded-document/"}
+{"dg-publish":true,"permalink":"/example-pages/transcluded-document/","dg-note-properties":{}}
 ---
 
 This is a transcluded note.

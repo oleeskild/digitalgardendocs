@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/obsidian-bases/"}
+{"dg-publish":true,"permalink":"/advanced/obsidian-bases/","dg-note-properties":{}}
 ---
 
 The plugin supports publishing Obsidian Bases — the database-like views that let you query, filter, and display notes based on their properties.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/02-commands/"}
+{"dg-publish":true,"permalink":"/getting-started/02-commands/","dg-note-properties":{}}
 ---
 
 

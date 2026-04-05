@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/"}
+{"dg-publish":true,"permalink":"/advanced/hosting-alternatives/","dg-note-properties":{}}
 ---
 
 While the [[Getting Started/01 Getting started\|01 Getting started]] uses Vercel as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 

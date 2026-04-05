@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/"}
+{"dg-publish":true,"permalink":"/advanced/tips-and-tricks/","dg-note-properties":{}}
 ---
 
 Here are a collection and tips and tricks that can be of use when publishing your notes. 

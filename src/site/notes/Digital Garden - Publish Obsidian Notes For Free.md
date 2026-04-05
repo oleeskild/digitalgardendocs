@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden-publish-obsidian-notes-for-free/","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 

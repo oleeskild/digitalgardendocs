@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/note-specific-settings/"}
+{"dg-publish":true,"permalink":"/advanced/note-specific-settings/","dg-note-properties":{}}
 ---
 
 ## Title

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/roadmap/"}
+{"dg-publish":true,"permalink":"/advanced/roadmap/","dg-note-properties":{}}
 ---
 
 This plugin is under active development. Upcoming features are tracked in the following Kanban board on GitHub:

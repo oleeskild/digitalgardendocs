@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/troubleshooting/"}
+{"dg-publish":true,"permalink":"/troubleshooting/","dg-note-properties":{}}
 ---
 
 

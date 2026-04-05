@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/css-customization/"}
+{"dg-publish":true,"permalink":"/advanced/css-customization/","dg-note-properties":{}}
 ---
 
 ## Dynamic CSS/SCSS

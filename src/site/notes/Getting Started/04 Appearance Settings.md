@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/"}
+{"dg-publish":true,"permalink":"/getting-started/04-appearance-settings/","dg-note-properties":{}}
 ---
 
 The appearance settings can be accessed in the settings menu: 

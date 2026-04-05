@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-analytics/"}
+{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-analytics/","dg-note-properties":{}}
 ---
 
 ## Vercel

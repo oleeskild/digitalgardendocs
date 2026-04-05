@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-comments/"}
+{"dg-publish":true,"permalink":"/advanced/guides-and-how-tos/adding-comments/","dg-note-properties":{}}
 ---
 
 Using [[Advanced/Adding custom components#How does it work?\|custom components]] you can add a comment system.

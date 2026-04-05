@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/example-pages/simple-page/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false"}
+{"dg-publish":true,"permalink":"/example-pages/simple-page/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dg-note-properties":{}}
 ---
 
 
