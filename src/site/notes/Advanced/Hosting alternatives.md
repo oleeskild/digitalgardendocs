@@ -5,7 +5,23 @@
 While the [[Getting Started/01 Getting started\|01 Getting started]] uses Vercel as the hosting platform, the site can be run on any other hosting platform. Some alternatives are listed below. 
 
 ## Self hosting
-If you want to host this on your own server, you can use the approach explained in the [following GitHub discussion](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
+
+### Local Export (no GitHub required)
+The plugin has a built-in **Export Garden to Local Folder** command that writes all your published notes and images directly to a local copy of the [digitalgarden template](https://github.com/oleeskild/digitalgarden). This means you can build and host the site yourself without using GitHub as an intermediary.
+
+1. Clone or download the [digitalgarden template](https://github.com/oleeskild/digitalgarden)
+2. In the plugin settings, scroll to **Local Export** and set the folder path to where you cloned the template
+3. Run the **Export Garden to Local Folder** command from the command palette
+4. In the digitalgarden folder, run `npm install` then `npm run build` to generate the static site
+5. Deploy the `dist/` folder to any static hosting provider or your own server
+
+You can also use `npm run dev` to preview the site locally with hot reload before deploying.
+
+> [!note]
+> Publish status tracking and diffing are not available with local export. It performs a full export each time, which is fast since it's writing to local disk.
+
+### Other self-hosting approaches
+You can also use the approach explained in the [following GitHub discussion](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
 
 ---
 

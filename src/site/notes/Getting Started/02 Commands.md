@@ -35,5 +35,17 @@ Make sure you have the correct Base URL in your settings, so that the copied URL
 ### Open Publication Center
 This will open the publication center dialog. Here you can view a list what files are published, changed, deleted and not yet published. You also have the option to mass-update your notes from here. 
 
+---
+
+### Export Garden to Local Folder
+Exports all notes marked with `dg-publish: true` and their images to a local folder on your computer. This is useful for self-hosting your garden or previewing it locally without publishing to GitHub.
+
+Before using this command, set the path to your local [digitalgarden](https://github.com/oleeskild/digitalgarden) folder in the plugin settings under **Local Export**.
+
+After exporting, run `npm run dev` in your digitalgarden folder to preview the site with hot reload.
+
+> [!note]
+> This command is only available on desktop. Publish status tracking and diffing are not available with local export — it performs a full export each time.
+
 
  [[Getting Started/01 Getting started\|< Prev]] | [[Getting Started/03 Note settings\|Next: Note Settings >]]

@@ -58,19 +58,19 @@ let a = 5;
 list from "Advanced"
 ```
 
-- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
-- [[Advanced/CSS Customization\|CSS Customization]]
 - [[Advanced/Adding custom components\|Adding custom components]]
+- [[Advanced/CSS Customization\|CSS Customization]]
+- [[Advanced/Comparison to other solutions\|Comparison to other solutions]]
+- [[Advanced/Configure build pipeline\|Configure build pipeline]]
 - [[Advanced/Content Customization\|Content Customization]]
 - [[Advanced/Dataview queries\|Dataview queries]]
-- [[Advanced/Configure build pipeline\|Configure build pipeline]]
+- [[Advanced/Fine grained access token\|Fine grained access token]]
 - [[Advanced/Guides and How-Tos/Adding analytics\|Adding analytics]]
 - [[Advanced/Guides and How-Tos/Adding comments\|Adding comments]]
-- [[Advanced/Obsidian Bases\|Obsidian Bases]]
 - [[Advanced/Hosting alternatives\|Hosting alternatives]]
-- [[Advanced/Fine grained access token\|Fine grained access token]]
-- [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Note Specific Settings\|Note Specific Settings]]
+- [[Advanced/Obsidian Bases\|Obsidian Bases]]
+- [[Advanced/Roadmap\|Roadmap]]
 - [[Advanced/Tips and Tricks\|Tips and Tricks]]
 
 { .block-language-dataview}
