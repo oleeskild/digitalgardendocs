@@ -1,0 +1,19 @@
+---
+permalink: /~random/index.html
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Random Note</title>
+  <script>
+    var notes = [{% for post in collections.note %}"{{ post.url }}"{% if not loop.last %},{% endif %}{% endfor %}];
+    var randomNote = notes[Math.floor(Math.random() * notes.length)];
+    window.location.replace(randomNote);
+  </script>
+</head>
+<body>
+  <p>Redirecting to a random note...</p>
+</body>
+</html>

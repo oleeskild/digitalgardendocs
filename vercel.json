@@ -3,9 +3,8 @@
     "installCommand": "npm install",
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
-    "routes": [
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "status": 404, "dest": "/404" }
+    "redirects": [
+        { "source": "/(.*)", "destination": "https://docs.forestry.md/$1", "permanent": true }
       ],
     "github": {
         "silent": true
