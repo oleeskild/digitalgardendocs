@@ -575,6 +575,10 @@ body:has(.content.canvas-page) .sidebar {
         }
     }
 
+    .toc {
+        display: none;
+    }
+
     .backlinks {
         flex: 1;
         max-width: 300px;
